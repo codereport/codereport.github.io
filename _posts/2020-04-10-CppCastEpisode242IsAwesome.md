@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  CppCast Episode 242 with Jonathon Turner is AWESOME!
+title:  CppCast Episode 242 is AWESOME!
 categories: [Podcasts,Programming Languages]
 ---
 
