@@ -19,7 +19,7 @@ However, today's episode was so good that I decided a tweet was not enough - so 
 
 ### Episode 242 with Jonathon Turner
 
-The guest for [Episode 242](https://cppcast.com/nu-programming-languages-jonathan-turner/) was [Jonathan Turner](https://twitter.com/jntrnr), who happens to be co-host Jason's brother. For anyone that is interested in programming languages - the podcast is a goldmine. I was going for my daily COVID walk and I couldn't stop smiling while I was listening to it. Here are my favorite quotes from the episode (some profound, some funny):
+The guest for [Episode 242](https://cppcast.com/nu-programming-languages-jonathan-turner/) was [Jonathan Turner](https://twitter.com/jntrnr), who happens to be co-host Jason's brother. For anyone that is interested in programming languages - this podcast is a goldmine. I was going for my daily COVID walk and I couldn't stop smiling while I was listening to it. Here are my favorite quotes from the episode (some profound, some funny):
 
 > Your ambitions will outrun your skill - and that is how you should start.
 
@@ -41,11 +41,11 @@ Jonathon details his ~15 year history in programming languages. The highlights o
 * Work as the PM for TypeScript while at **Microsoft**
 * Work on Rust while at **Mozilla**
 
-Hearing about Jonathon's career and experience and history was inspiring and it was 
+Hearing about Jonathon's career and experience and history was inspiring, so much so that I have listend to the podcast twice now.
 
 ### Flashback from the Past
 
-I listen to about 15 programming / technology podcasts and I actually explicitly remember an episode from a different podcast that Jonathon Turner was on that I had listened to previously without knowing that he was Jason's brother. He was on [Episode 363](https://changelog.com/podcast/363) of [The Changelog](https://changelog.com/) podcast. I remember it vividly because I love hearing passionate people talking about what they are passionate about. If you want to here more about Nushell, definitely check this episode out. And for random trivia facts, I remmeber exactly where I was when I listened to the podcast - I was on W Campbell Ave in the midst of a ~50km bike ride back in Septemeber 2019 when I lived in Silicon Valley. Here is a image of the route I biked:
+I listen to about 15 programming / technology podcasts and I actually explicitly remember an episode from a different podcast that Jonathon Turner was on that I had listened to previously without knowing that he was Jason's brother. He was on [Episode 363](https://changelog.com/podcast/363) of [The Changelog](https://changelog.com/) podcast. I remember it vividly because I love hearing passionate people talking about what they are passionate about - and Jonathon's passion for Nushell is palpable when he speaks. If you want to here more about Nushell, definitely check this episode out. And for random trivia facts, I remmeber exactly where I was when I listened to the podcast - I was on W Campbell Ave in the midst of a ~50km bike ride back in Septemeber 2019 when I lived in Silicon Valley. It was on Septeber 8, 2019 4 days after the podcast came out. Here is a image of the route I biked:
 
 ![](/images/bike_ride.PNG){:class="img-responsive"}
 
@@ -75,3 +75,11 @@ This echos what I stated at the beginning of my [lightning talk](https://www.you
 > Not only should we be kind to them [developers in other programming languages], you should think about learning some of these languages.
 
 It made me so happy to hear about C++ and Rust language designers sharing stories and learning from each other. That is so awesome.
+
+### Last But Not Least
+
+Jonathon mentioned [Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl/) as a book people should read as there thrid book in exploring programming languages. I figure I would include it as it wasn't in the show notes of the episode. I will also include something that was in the show notes of the episode, another one of Jonathon's talks, entitled **Growing TypeScript and Rust**, sounds like a fanscinating talk that I will be watching ASAP.
+
+<p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/s87cTnmfM0k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+Thanks to Rob, Jason and Jonathon for such an awesome podcast. CppCast is one of my favorite podcasts and this is hands down one of my facvorite episodes.
