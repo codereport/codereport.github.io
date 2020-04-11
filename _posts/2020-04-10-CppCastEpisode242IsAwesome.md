@@ -45,6 +45,8 @@ Jonathon details his ~15 year history in programming languages. The highlights o
 
 I listen to about 15 programming / technology podcasts and I actually explicitly remember an episode from a different podcast that Jonathon Turner was on that I had listened to previously without knowing that he was Jason's brother. He was on [Episode 363](https://changelog.com/podcast/363) of [The Changelog](https://changelog.com/) podcast. I remember it vividly because I love hearing passionate people talking about what they are passionate about. If you want to here more about Nushell, definitely check this episode out. And for random trivia facts, I remmeber exactly where I was when I listened to the podcast - I was on W Campbell Ave in the midst of a ~50km bike ride back in Septemeber 2019 when I lived in Silicon Valley. Here is a image of the route I biked:
 
+![](https://github.com/codereport/codereport.github.io/blob/master/images/bike_ride.PNG)
+
 ### Lang.Next Videos
 
 Jonathon mentions Lang.Next during the podcast, which I had also come across in the past. I keep track of every talk / presentation / lecture I watched and on May 1, 2019 I watched [LangNext 2014 (C++, Rust, D, Go)]() which is just a copy of the actual talk on Channel 9 [Panel: Systems Programming in 2014 and Beyond](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/Panel-Systems-Programming-Languages-in-2014-and-Beyond)
