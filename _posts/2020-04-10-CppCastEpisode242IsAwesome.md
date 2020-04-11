@@ -70,7 +70,7 @@ He also tells an awesome story about himself, Bjarne, Niko and other Rust folks 
 
 > And once he [Stroustrup] realizes that we [the Rust team] actually like C++ and that we aren't just hear to dog on C++, we started to have this really awesome conversation about what it was like to design C++ over the years ...
 
-This echos what I stated at the beginning of my lightning talks at Meeting C++ 2019 where I said:
+This echos what I stated at the beginning of my [lightning talk](https://www.youtube.com/watch?v=tsfaE-eDusg) at Meeting C++ 2019 where I said:
 
 > Not only should we be kind to them [developers in other programming languages], you should think about learning some of these languages.
 
