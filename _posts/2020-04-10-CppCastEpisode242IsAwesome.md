@@ -4,7 +4,7 @@ title:  CppCast Episode 242 is AWESOME!
 categories: [Podcasts,Programming Languages,Go,C++,Swift,Python,Rust,JavaScript,TypeScript,Ruby ]
 ---
 
-**Listen Here:*** [Episode 242](https://cppcast.com/nu-programming-languages-jonathan-turner/)
+**Listen Here:** [Episode 242](https://cppcast.com/nu-programming-languages-jonathan-turner/)
 
 Typically whenever I like a podcast episode, I will just tweet about it, like the examples below:
 
