@@ -49,4 +49,6 @@ I listen to about 15 programming / technology podcasts and I actually explicitly
 
 ### Lang.Next Videos
 
-Jonathon mentions Lang.Next during the podcast, which I had also come across in the past. I keep track of every talk / presentation / lecture I watched and on May 1, 2019 I watched [LangNext 2014 (C++, Rust, D, Go)]() which is just a copy of the actual talk on Channel 9 [Panel: Systems Programming in 2014 and Beyond](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/Panel-Systems-Programming-Languages-in-2014-and-Beyond)
+Jonathon mentions Lang.Next during the podcast, which I had also come across in the past. I keep track of every talk / presentation / lecture I watched and on May 1, 2019 I watched [LangNext 2014 (C++, Rust, D, Go)](https://www.youtube.com/watch?v=BBbv1ej0fFo) which is just a copy of the actual talk on Channel 9 [Panel: Systems Programming in 2014 and Beyond](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/Panel-Systems-Programming-Languages-in-2014-and-Beyond)
+
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=BBbv1ej0fFo" frameborder="0" allowfullscreen></iframe>
