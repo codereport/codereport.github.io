@@ -13,4 +13,10 @@ Typically whenever I like a podcast episode, I will just tweet about it, like th
 
 However, today's episode was so good that I decided a tweet was not enough - so I created a blog so I could have more than 140 charactes to share my thoughts.
 
--- WIP -- 
+### About CppCast
+
+[CppCast](https://cppcast.com/) is one of the two main C++ podcasts and is hosted by [Rob Irving](https://twitter.com/robwirving) and [Jason Turner](https://twitter.com/lefticus). The other C++ podcast is [cpp.chat](https://cpp.chat/). The format of CppCast is to have a guest on and talk about a topic (typically relevant to the guest) with the guest. Before talking about said topic, they typically cover a few pieces of news from the C++ community and ecosystem.
+
+### Episode 242 with Jonathon Turner
+
+The guest for Episode 242 was [Jonathan Turner](https://twitter.com/jntrnr), who happens to be co-host Jason's brother. 
