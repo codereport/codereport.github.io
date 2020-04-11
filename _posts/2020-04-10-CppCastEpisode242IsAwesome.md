@@ -4,8 +4,6 @@ title:  CppCast Episode 242 is AWESOME!
 categories: [Podcasts,Programming Languages,Go,C++,Swift,Python,Rust,JavaScript,TypeScript,Ruby ]
 ---
 
-<center><b>Listen Here:</b> <a href="https://cppcast.com/nu-programming-languages-jonathan-turner/">Episode 242</a></center>
-
 Typically whenever I like a podcast episode, I will just tweet about it, like the examples below:
 
 * [CoRecursive Episode 24 with Bryan Cantrill](https://twitter.com/code_report/status/1200112950586966016?s=20)
@@ -85,3 +83,5 @@ Jonathon mentioned [Types and Programming Languages](https://www.cis.upenn.edu/~
 <p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/s87cTnmfM0k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 Thanks to Rob, Jason and Jonathon for such an awesome podcast. CppCast is one of my favorite podcasts and this is hands down one of my favorite episodes.
+
+<center><b>Listen Here:</b> <a href="https://cppcast.com/nu-programming-languages-jonathan-turner/">Episode 242</a></center>
