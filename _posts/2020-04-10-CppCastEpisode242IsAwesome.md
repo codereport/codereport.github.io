@@ -19,7 +19,7 @@ However, today's episode was so good that I decided a tweet was not enough - so 
 
 ### Episode 242 with Jonathon Turner
 
-The guest for Episode 242 was [Jonathan Turner](https://twitter.com/jntrnr), who happens to be co-host Jason's brother. For anyone that is interested in programming languages - the podcast is a goldmine. I was going for my daily COVID walk and I couldn't stop smiling while I was listening to it. Here are my favorite quotes from the episode (some profound, some funny):
+The guest for [Episode 242](https://cppcast.com/nu-programming-languages-jonathan-turner/) was [Jonathan Turner](https://twitter.com/jntrnr), who happens to be co-host Jason's brother. For anyone that is interested in programming languages - the podcast is a goldmine. I was going for my daily COVID walk and I couldn't stop smiling while I was listening to it. Here are my favorite quotes from the episode (some profound, some funny):
 
 > Your ambitions will outrun your skill - and that is how you should start.
 
@@ -51,4 +51,4 @@ I listen to about 15 programming / technology podcasts and I actually explicitly
 
 Jonathon mentions Lang.Next during the podcast, which I had also come across in the past. I keep track of every talk / presentation / lecture I watched and on May 1, 2019 I watched [LangNext 2014 (C++, Rust, D, Go)](https://www.youtube.com/watch?v=BBbv1ej0fFo) which is just a copy of the actual talk on Channel 9 [Panel: Systems Programming in 2014 and Beyond](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/Panel-Systems-Programming-Languages-in-2014-and-Beyond)
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=BBbv1ej0fFo" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BBbv1ej0fFo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
