@@ -49,6 +49,17 @@ I listen to about 15 programming / technology podcasts and I actually explicitly
 
 ### Lang.Next Videos
 
-Jonathon mentions Lang.Next during the podcast, which I had also come across in the past. I keep track of every talk / presentation / lecture I watched and on May 1, 2019 I watched [LangNext 2014 (C++, Rust, D, Go)](https://www.youtube.com/watch?v=BBbv1ej0fFo) which is just a copy of the actual talk on Channel 9 [Panel: Systems Programming in 2014 and Beyond](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/Panel-Systems-Programming-Languages-in-2014-and-Beyond)
+Jonathon also mentioned Lang.Next during the podcast, which I had also come across in the past. I keep track of every talk / presentation / lecture I have watched and on May 1, 2019 I watched [LangNext 2014 (C++, Rust, D, Go)](https://www.youtube.com/watch?v=BBbv1ej0fFo) which is just a copy of the actual talk on Channel 9 [Panel: Systems Programming in 2014 and Beyond](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/Panel-Systems-Programming-Languages-in-2014-and-Beyond)
 
 <p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/BBbv1ej0fFo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+It is a panel of four language designers:
+
+* Bjarne Stroustrup (creator of C++)
+* Andrei Alexandrescu (co-designed of D)
+* Rob Pike (co-creator of Go)
+* Niko Matsakis (core developer for Rust)
+
+It is a fantastic panel and hearing Jonathon mention on the podcast reminded me that it was on my list of things to do to go back back and watch all of the talks. One of [Jonathon's talks]() that he mentioned on the podcast about TypeScript can be found on Channel 9 from Lang.Next 2014: 
+
+<p align="center"><iframe src="https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/TypeScript-Supersetting-JavaScript/player" width="640" height="360" allowFullScreen frameBorder="0" title="TypeScript – Supersetting JavaScript - Microsoft Channel 9 Video"></iframe></p>
