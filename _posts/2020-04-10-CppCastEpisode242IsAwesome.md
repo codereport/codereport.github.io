@@ -34,12 +34,14 @@ Jonathon details his ~15 year history in programming languages. The highlights o
 * Programming language he wrote called [Minnow](https://github.com/jonathandturner/minnow-language)
 * Comparison of Minnow to Go
 * Loved Minnow so much he quit his job and worked on it for 1.5 years
-* Grad school research on programmings languages and 
+* Grad school research on programmings languages and concepts
 * Work with Chris Lattner and Doug Gregor at **Apple**
-* Work on inherently parallel programming language [Chapel](https://chapel-lang.org/)
+* Work on the inherently parallel programming language [Chapel](https://chapel-lang.org/)
 * Implemented concepts in Chapel
 * Work as the PM for TypeScript while at **Microsoft**
 * Work on Rust while at **Mozilla**
+
+Hearing about Jonathon's career and experience and history was inspiring and it was 
 
 ### Flashback from the Past
 
@@ -60,6 +62,16 @@ It is a panel of four language designers:
 * Rob Pike (co-creator of Go)
 * Niko Matsakis (core developer for Rust)
 
-It is a fantastic panel and hearing Jonathon mention on the podcast reminded me that it was on my list of things to do to go back back and watch all of the talks. One of [Jonathon's talks]() that he mentioned on the podcast about TypeScript can be found on Channel 9 from Lang.Next 2014: 
+It is a fantastic panel and hearing Jonathon mention on the podcast reminded me that it was on my list of things to do to go back back and watch all of the talks. Jonathon mentioned on the podcast that he has given many talks, and you can find one of them: [TypeScript – Supersetting JavaScript](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/TypeScript-Supersetting-JavaScript/) on Channel 9 from Lang.Next 2014: 
 
 <p align="center"><iframe src="https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/TypeScript-Supersetting-JavaScript/player" width="640" height="360" allowFullScreen frameBorder="0" title="TypeScript – Supersetting JavaScript - Microsoft Channel 9 Video"></iframe></p>
+
+He also tells an awesome story about himself, Bjarne, Niko and other Rust folks having dinner together at the conference and sharing stories - and how it led the Rust development team to internalize some of the lessons that Bjarne shared with them that he learned from creating C++ over previous decades. So absolutely cool to hear about that. And loved when Jonathon said:
+
+> And once he [Stroustrup] realizes that we [the Rust team] actually like C++ and that we aren't just hear to dog on C++, we started to have this really awesome conversation about what it was like to design C++ over the years ...
+
+This echos what I stated at the beginning of my lightning talks at Meeting C++ 2019 where I said:
+
+> Not only should we be kind to them [developers in other programming languages], you should think about learning some of these languages.
+
+It made me so happy to hear about C++ and Rust language designers sharing stories and learning from each other. That is so awesome.
