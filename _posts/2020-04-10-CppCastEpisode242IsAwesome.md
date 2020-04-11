@@ -30,14 +30,14 @@ The guest for [Episode 242](https://cppcast.com/nu-programming-languages-jonatha
 Jonathon details his ~15 year history in programming languages. The highlights of the history are:
 
 * Toy programming language he wrote called Pineapple
-* His work with Jason on [ChaiScript](http://chaiscript.com/)
+* Work with Jason on [ChaiScript](http://chaiscript.com/)
 * Programming language he wrote called [Minnow](https://github.com/jonathandturner/minnow-language)
 * Comparison of Minnow to Go
-* Loved Minnow so much he quit his job and worked on it for 1.5 years
+* Quitting his job to work on Minnow for 1.5 years because he loved it so much
 * Grad school research on programming languages and concepts
 * Work with Chris Lattner and Doug Gregor at **Apple**
 * Work on the inherently parallel programming language [Chapel](https://chapel-lang.org/)
-* Implemented concepts in Chapel
+* Implementation of concepts in Chapel
 * Work as the PM for TypeScript while at **Microsoft**
 * Work on Rust while at **Mozilla**
 * Work on [Nushell](https://www.nushell.sh/)
