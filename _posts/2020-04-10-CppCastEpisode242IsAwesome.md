@@ -40,6 +40,7 @@ Jonathon details his ~15 year history in programming languages. The highlights o
 * Implemented concepts in Chapel
 * Work as the PM for TypeScript while at **Microsoft**
 * Work on Rust while at **Mozilla**
+* Work on [Nushell](https://www.nushell.sh/)
 
 Hearing about Jonathon's career and experience and history was inspiring, so much so that I have listened to the podcast twice now.
 
