@@ -19,7 +19,7 @@ However, today's episode was so good that a tweet was not enough - so I created 
 
 ### Episode 242 with Jonathon Turner
 
-The guest for [Episode 242](https://cppcast.com/nu-programming-languages-jonathan-turner/) was [Jonathan Turner](https://twitter.com/jntrnr), who happens to be co-host Jason's brother. For anyone that is interested in programming languages - this podcast is a goldmine. I was going for my daily COVID walk and I couldn't stop smiling while I was listening to it. Here are my favorite quotes from the episode (some profound, some funny):
+The guest for [Episode 242](https://cppcast.com/nu-programming-languages-jonathan-turner/) was [Jonathan Turner](https://twitter.com/jntrnr), who happens to be co-host Jason's cousin. For anyone that is interested in programming languages - this podcast is a goldmine. I was going for my daily COVID walk and I couldn't stop smiling while I was listening to it. Here are my favorite quotes from the episode (some profound, some funny):
 
 > Your ambitions will outrun your skill - and that is how you should start.
 
