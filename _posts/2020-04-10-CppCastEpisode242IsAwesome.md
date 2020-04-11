@@ -4,7 +4,7 @@ title:  CppCast Episode 242 is AWESOME!
 categories: [Podcasts,Programming Languages,Go,C++,Swift,Python,Rust,JavaScript,TypeScript,Ruby ]
 ---
 
-**Listen Here:** [Episode 242](https://cppcast.com/nu-programming-languages-jonathan-turner/)
+<p align="center">**Listen Here:** [Episode 242](https://cppcast.com/nu-programming-languages-jonathan-turner/)</p>
 
 Typically whenever I like a podcast episode, I will just tweet about it, like the examples below:
 
@@ -13,7 +13,7 @@ Typically whenever I like a podcast episode, I will just tweet about it, like th
 * [NVIDIA AI Podcast Episode 100 with Ian Buck](https://twitter.com/code_report/status/1185248371365142528?s=20)
 * [CppCast Episode 237 with Barry Revzin](https://twitter.com/code_report/status/1236362054715486209?s=20)
 
-However, today's episode was so good that I decided a tweet was not enough - so I created a blog so I could have more than 140 charactes to share my thoughts.
+However, today's episode was so good that I decided a tweet was not enough - so I created a blog so I could have more than 140 characters to share my thoughts.
 
 ### About CppCast
 
@@ -32,22 +32,22 @@ The guest for [Episode 242](https://cppcast.com/nu-programming-languages-jonatha
 Jonathon details his ~15 year history in programming languages. The highlights of the history are:
 
 * Toy programming language he wrote called Pineapple
-* His work with Jason on [Chaiscript](http://chaiscript.com/)
+* His work with Jason on [ChaiScript](http://chaiscript.com/)
 * Programming language he wrote called [Minnow](https://github.com/jonathandturner/minnow-language)
 * Comparison of Minnow to Go
 * Loved Minnow so much he quit his job and worked on it for 1.5 years
-* Grad school research on programmings languages and concepts
+* Grad school research on programming languages and concepts
 * Work with Chris Lattner and Doug Gregor at **Apple**
 * Work on the inherently parallel programming language [Chapel](https://chapel-lang.org/)
 * Implemented concepts in Chapel
 * Work as the PM for TypeScript while at **Microsoft**
 * Work on Rust while at **Mozilla**
 
-Hearing about Jonathon's career and experience and history was inspiring, so much so that I have listend to the podcast twice now.
+Hearing about Jonathon's career and experience and history was inspiring, so much so that I have listened to the podcast twice now.
 
 ### Flashback from the Past
 
-I listen to about 15 programming / technology podcasts and I actually explicitly remember an episode from a different podcast that Jonathon Turner was on that I had listened to previously without knowing that he was Jason's brother. He was on [Episode 363](https://changelog.com/podcast/363) of [The Changelog](https://changelog.com/) podcast. I remember it vividly because I love hearing passionate people talking about what they are passionate about - and Jonathon's passion for Nushell is palpable when he speaks. If you want to here more about Nushell, definitely check this episode out. And for random trivia facts, I remmeber exactly where I was when I listened to the podcast - I was on W Campbell Ave in the midst of a ~50km bike ride back in Septemeber 2019 when I lived in Silicon Valley. It was on Septeber 8, 2019 4 days after the podcast came out. Here is a image of the route I biked:
+I listen to about 15 programming / technology podcasts and I actually explicitly remember an episode from a different podcast that Jonathon Turner was on that I had listened to previously without knowing that he was Jason's brother. He was on [Episode 363](https://changelog.com/podcast/363) of [The Changelog](https://changelog.com/) podcast. I remember it vividly because I love hearing passionate people talking about what they are passionate about - and Jonathon's passion for Nushell is palpable when he speaks. If you want to here more about Nushell, definitely check this episode out. And for random trivia facts, I remember exactly where I was when I listened to the podcast - I was on W Campbell Ave in the midst of a ~50km bike ride back in September 2019 when I lived in Silicon Valley. It was on September 8, 2019 4 days after the podcast came out. Here is a image of the route I biked:
 
 ![](/images/bike_ride.PNG){:class="img-responsive"}
 
@@ -64,7 +64,7 @@ It is a panel of four language designers:
 * Rob Pike (co-creator of Go)
 * Niko Matsakis (core developer for Rust)
 
-It is a fantastic panel and hearing Jonathon mention on the podcast reminded me that it was on my list of things to do to go back back and watch all of the talks. Jonathon mentioned on the podcast that he has given many talks, and you can find one of them: [TypeScript – Supersetting JavaScript](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/TypeScript-Supersetting-JavaScript/) on Channel 9 from Lang.Next 2014: 
+It is a fantastic panel and hearing Jonathon mention on the podcast reminded me that it was on my list of things to do to go back and watch all of the talks. Jonathon mentioned on the podcast that he has given many talks, and you can find one of them: [TypeScript – Supersetting JavaScript](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/TypeScript-Supersetting-JavaScript/) on Channel 9 from Lang.Next 2014: 
 
 <p align="center"><iframe src="https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/TypeScript-Supersetting-JavaScript/player" width="640" height="360" allowFullScreen frameBorder="0" title="TypeScript – Supersetting JavaScript - Microsoft Channel 9 Video"></iframe></p>
 
@@ -72,7 +72,7 @@ He also tells an awesome story about himself, Bjarne, Niko and other Rust folks 
 
 > And once he [Stroustrup] realizes that we [the Rust team] actually like C++ and that we aren't just hear to dog on C++, we started to have this really awesome conversation about what it was like to design C++ over the years ...
 
-This echos what I stated at the beginning of my [lightning talk](https://www.youtube.com/watch?v=tsfaE-eDusg) at Meeting C++ 2019 where I said:
+This echoes what I stated at the beginning of my [lightning talk](https://www.youtube.com/watch?v=tsfaE-eDusg) at Meeting C++ 2019 where I said:
 
 > Not only should we be kind to them [developers in other programming languages], you should think about learning some of these languages.
 
@@ -80,7 +80,7 @@ It made me so happy to hear about C++ and Rust language designers sharing storie
 
 ### Last But Not Least
 
-Jonathon mentioned [Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl/) as a book people should read as their thrid book in exploring programming languages. I figure I would include it as it wasn't in the show notes of the episode. I will also include something that was in the show notes of the episode, another one of Jonathon's talks, entitled **Growing TypeScript and Rust**, sounds like a fanscinating talk that I will be watching ASAP.
+Jonathon mentioned [Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl/) as a book people should read as their third book in exploring programming languages. I figure I would include it as it wasn't in the show notes of the episode. I will also include something that was in the show notes of the episode, another one of Jonathon's talks, entitled **Growing TypeScript and Rust**, sounds like a fascinating talk that I will be watching ASAP.
 
 <p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/s87cTnmfM0k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
