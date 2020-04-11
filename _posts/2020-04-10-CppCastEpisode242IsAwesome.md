@@ -11,7 +11,7 @@ Typically whenever I like a podcast episode, I will just tweet about it, like th
 * [NVIDIA AI Podcast Episode 100 with Ian Buck](https://twitter.com/code_report/status/1185248371365142528?s=20)
 * [CppCast Episode 237 with Barry Revzin](https://twitter.com/code_report/status/1236362054715486209?s=20)
 
-However, today's episode was so good that I decided a tweet was not enough - so I created a blog so I could have more than 140 characters to share my thoughts.
+However, today's episode was so good that a tweet was not enough - so I created a blog so I could have more than 140 characters to share my thoughts.
 
 ### About CppCast
 
@@ -42,36 +42,36 @@ Jonathon details his ~15 year history in programming languages. The highlights o
 * Work on Rust while at **Mozilla**
 * Work on [Nushell](https://www.nushell.sh/)
 
-Hearing about Jonathon's career and experience and history was inspiring, so much so that I have listened to the podcast twice now.
+Hearing about Jonathon's story, career and experience was inspiring, so much so that I have listened to the podcast twice now.
 
 ### Flashback from the Past
 
-I listen to about 15 programming / technology podcasts and I actually explicitly remember an episode from a different podcast that Jonathon Turner was on that I had listened to previously without knowing that he was Jason's brother. He was on [Episode 363](https://changelog.com/podcast/363) of [The Changelog](https://changelog.com/) podcast. I remember it vividly because I love hearing passionate people talking about what they are passionate about - and Jonathon's passion for Nushell is palpable when he speaks. If you want to here more about Nushell, definitely check this episode out. And for random trivia facts, I remember exactly where I was when I listened to the podcast - I was on W Campbell Ave in the midst of a ~50km bike ride back in September 2019 when I lived in Silicon Valley. It was on September 8, 2019 4 days after the podcast came out. Here is a image of the route I biked:
+I listen to about 15 programming / technology podcasts. Without knowing that Jonathon was Jason's brother, I had previously listened to him on [Episode 363](https://changelog.com/podcast/363) of [The Changelog](https://changelog.com/) podcast, one of the other podcasts I listen to. I remember this episode vividly because I love hearing passionate people talking about what they are passionate about - and Jonathon's passion for Nushell is palpable when he speaks. If you want to hear more about Nushell, definitely check this episode out. The episode was so memorable I remember exactly where I was as I listened. I was on W Campbell Ave in the midst of a ~50km bike ride September 8, 2019, 4 days after the podcast came out. I was living in Silicon Valley at the time. Here is a image of the route I biked:
 
 ![](/images/bike_ride.PNG){:class="img-responsive"}
 
 ### Lang.Next Videos
 
-Jonathon also mentioned Lang.Next during the podcast, which I had also come across in the past. I keep track of every talk / presentation / lecture I have watched and on May 1, 2019 I watched [LangNext 2014 (C++, Rust, D, Go)](https://www.youtube.com/watch?v=BBbv1ej0fFo) which is just a copy of the actual talk on Channel 9 [Panel: Systems Programming in 2014 and Beyond](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/Panel-Systems-Programming-Languages-in-2014-and-Beyond)
+Jonathon also mentioned Lang.Next during the podcast, which I had also come across in the past. I happen to keep track of every talk / presentation / lecture I have watched and on May 1, 2019 I watched [LangNext 2014 (C++, Rust, D, Go)](https://www.youtube.com/watch?v=BBbv1ej0fFo) which is just a copy of the actual talk on Channel 9 [Panel: Systems Programming in 2014 and Beyond](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/Panel-Systems-Programming-Languages-in-2014-and-Beyond)
 
 <p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/BBbv1ej0fFo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 It is a panel of four language designers:
 
 * Bjarne Stroustrup (creator of C++)
-* Andrei Alexandrescu (co-designed of D)
+* Andrei Alexandrescu (co-designer of D)
 * Rob Pike (co-creator of Go)
 * Niko Matsakis (core developer for Rust)
 
-It is a fantastic panel and hearing Jonathon mention on the podcast reminded me that it was on my list of things to do to go back and watch all of the talks. Jonathon mentioned on the podcast that he has given many talks, and you can find one of them: [TypeScript – Supersetting JavaScript](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/TypeScript-Supersetting-JavaScript/) on Channel 9 from Lang.Next 2014: 
+It is a fantastic panel. Hearing Jonathon mention the conference on this episode reminded me that going back and watching all of the Lang.Next talks was on my list of things to do to. Jonathon also mentioned on the podcast that he has given many talks, and you can find one of them: [TypeScript – Supersetting JavaScript](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/TypeScript-Supersetting-JavaScript/) on Channel 9 from Lang.Next 2014: 
 
 <p align="center"><iframe src="https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/TypeScript-Supersetting-JavaScript/player" width="640" height="360" allowFullScreen frameBorder="0" title="TypeScript – Supersetting JavaScript - Microsoft Channel 9 Video"></iframe></p>
 
-He also tells an awesome story about himself, Bjarne, Niko and other Rust folks having dinner together at the conference and sharing stories - and how it led the Rust development team to internalize some of the lessons that Bjarne shared with them that he learned from creating C++ over previous decades. So absolutely cool to hear about that. And loved when Jonathon said:
+Jonathon also tells an awesome story about himself, Bjarne, Niko and other Rust folks having dinner together at the conference and sharing stories. He reflects that this allowed the Rust development team to internalize some of the lessons that Bjarne shared with them that he learned from creating C++ over the previous decades. So absolutely cool to hear about that. And loved when Jonathon said:
 
 > And once he [Stroustrup] realizes that we [the Rust team] actually like C++ and that we aren't just hear to dog on C++, we started to have this really awesome conversation about what it was like to design C++ over the years ...
 
-This echoes what I stated at the beginning of my [lightning talk](https://www.youtube.com/watch?v=tsfaE-eDusg) at Meeting C++ 2019 where I said:
+This echoes what I stated at the beginning of my [lightning talk](https://www.youtube.com/watch?v=tsfaE-eDusg) at Meeting C++ 2019:
 
 > Not only should we be kind to them [developers in other programming languages], you should think about learning some of these languages.
 
