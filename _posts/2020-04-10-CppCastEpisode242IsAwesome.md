@@ -78,7 +78,7 @@ It made me so happy to hear about C++ and Rust language designers sharing storie
 
 ### Last But Not Least
 
-Jonathon mentioned [Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl/) as a book people should read as there thrid book in exploring programming languages. I figure I would include it as it wasn't in the show notes of the episode. I will also include something that was in the show notes of the episode, another one of Jonathon's talks, entitled **Growing TypeScript and Rust**, sounds like a fanscinating talk that I will be watching ASAP.
+Jonathon mentioned [Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl/) as a book people should read as their thrid book in exploring programming languages. I figure I would include it as it wasn't in the show notes of the episode. I will also include something that was in the show notes of the episode, another one of Jonathon's talks, entitled **Growing TypeScript and Rust**, sounds like a fanscinating talk that I will be watching ASAP.
 
 <p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/s87cTnmfM0k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
