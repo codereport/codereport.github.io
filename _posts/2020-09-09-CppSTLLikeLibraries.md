@@ -9,7 +9,7 @@ I recently watched the extended version of Sean Parent's amazing [C++ Seasoning]
 * [Programming Conversations Lecture 5 Part 1](https://www.youtube.com/watch?v=IzNtM038JuI)
 * [Programming Conversations Lecture 5 Part 2](https://www.youtube.com/watch?v=vxv74Mjt9_0)
 
-<p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/IzNtM038JuI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/h4Jl1fk3MkQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 At [one point in the talk](https://youtu.be/IzNtM038JuI?t=612), Sean points out that the STL is far from complete and that you should write your own algorithm if it isn't there. This is a point that Marshall Clow, maintainer of the `libc++` standard library, dedicated a [whole talk](https://www.youtube.com/watch?v=h4Jl1fk3MkQ) to at CppCon 2016. 
 
