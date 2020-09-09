@@ -31,7 +31,38 @@ But that was it. Note that BSL has it's own very unique style that is furthest a
 
 If you know of any libraries, either let me know [on Twitter](https://twitter.com/code_report/status/1303679705527263235) or comment on the [corresponding Reddit post](https://old.reddit.com/r/cpp/comments/ipb75h/c_stllike_algorithm_libraries). As new libraries are mentioned, I will add them to the list below.
 
-**Added C++ STL-Like Libraries**
-* None yet
+*Update: many suggestions fit into different categories, so I have done my best to categorize them below.*
+
+### Full List of C++ STL-Like Libraries
+
+#### General
+* [ASL (Adobe Standard Library)](https://stlab.adobe.com/)
+* [Boost Algorithm Library](https://www.boost.org/doc/libs/1_74_0/libs/algorithm/doc/html/index.html)
+* [BSL (Bloomberg Standard Library)](https://github.com/bloomberg/bde/tree/master/groups/bsl/bslalg)
+* [EASTL (Electronic Arts STL)](https://github.com/electronicarts/EASTL/blob/master/include/EASTL/algorithm.h)
+
+#### Concurrency and Parallelism
+* [Thrust (CUDA)](https://docs.nvidia.com/cuda/thrust/index.html#algorithms)
+* [HPX Algorithms](https://hpx-docs.stellar-group.org/latest/html/libs/algorithms/api.html#libs-algorithms-api)
+
+#### Functionally Composable 
+* [Range-v3](https://ericniebler.github.io/range-v3/)
+* [cmcstl2](https://github.com/CaseyCarter/cmcstl2)
+* [NanoRange](https://github.com/tcbrindle/NanoRange)
+* [Pipes](https://github.com/joboccara/pipes)
+
+#### Domain Specific
+* [CGAL (Computational Geometry Algorithms Library)](https://www.cgal.org/)
+* [Crypto++](https://www.cryptopp.com/)
+* [CTRE (Compile Time Regular Expressions)](https://compile-time-regular-expressions.readthedocs.io/en/latest/)
+* [BGL (Boost Graph Library)](https://www.boost.org/doc/libs/1_74_0/libs/graph/doc/)
+* [Boost String Algorithms Library](https://www.boost.org/doc/libs/1_74_0/doc/html/string_algo.html)
+* [Boost.Geometry Algorithms](https://www.boost.org/doc/libs/1_74_0/libs/geometry/doc/html/geometry/reference/algorithms.html)
+
+#### Other Programming Languages
+* [D: std.algorithm](https://dlang.org/phobos/std_algorithm.html)
+* [TypeScript: TSTL](https://github.com/samchon/tstl)
+* [Java: jal (by Stepanov)](http://stepanovpapers.com/jal-20031117/docs/index.html)
+
 
 <center>Hope to virtually see you at CppCon 2020!</center>
