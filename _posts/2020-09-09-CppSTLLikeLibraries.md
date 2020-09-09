@@ -29,7 +29,7 @@ Then I went and did some searching and came across:
 
 But that was it. Note that BSL has it's own very unique style that is furthest away from the STL. But the rest look and feel very STL-like / Stepanov inspired. My question to the readers is do you know any that aren't listed in the four above? I plan to write a follow up blog post in the near future post-CppCon 2020 that takes a look at some of the algorithms that exist outside of the C++ STL, but before I do that I would love to have a comprehensive list. 
 
-If you know of any libraries, either let me know on Twitter or comment on the corresponding Reddit post. As new libraries are mentioned, I will add them to the list below.
+If you know of any libraries, either let me know on Twitter or comment on the [corresponding Reddit post](https://old.reddit.com/r/cpp/comments/ipb75h/c_stllike_algorithm_libraries). As new libraries are mentioned, I will add them to the list below.
 
 **Added C++ STL-Like Libraries**
 * None yet
