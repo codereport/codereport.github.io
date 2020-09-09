@@ -13,7 +13,7 @@ I recently watched the extended version of Sean Parent's amazing [C++ Seasoning]
 
 At [one point in the talk](https://youtu.be/IzNtM038JuI?t=612), Sean points out that the STL is far from complete and that you should write your own algorithm if it isn't there. This is a point that Marshall Clow, maintainer of the `libc++` standard library, dedicated a [whole talk](https://www.youtube.com/watch?v=h4Jl1fk3MkQ) to at CppCon 2016. 
 
-<p align="center"><iframe width="640" height="360" src="https://www.youtube.com/watch?v=h4Jl1fk3MkQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/h4Jl1fk3MkQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 Sean also mentions at another point in the talk that the ASL, [Adobe Standard Library](https://stlab.adobe.com/group__algorithm.html), itself has a number of algorithms added on top of the STL algorithms provided in the standard library. 
 
