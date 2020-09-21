@@ -22,7 +22,7 @@ As [Bryce Adelstein Lelbach](https://twitter.com/blelbach) has said [in many of 
 
 I finished writing this trip report without this section. Upon reviewing it, I realized that the overwhelming majority of the speakers mentioned in my blog were male. I was curious if this was my bias, and so I went and tallied up the talks with a female speaker - the total came to **6.9% (6/87)**. From now on, I will highlight some aspect of diversity in all of my Trip Reports - in hopes that we can track improvement over time.
 
-I should also mention that I slipped up at the beginning of my talk when I said "I hope you **guys** have enjoyed the conference just as much as I have." I do my best to avoid referring to groups of people as guys but I failed on this occasion (and others). I apologize if I offended anyone - it was unintentional and I will continue to do my best not too.
+I should also mention that I slipped up at the beginning of my talk when I said "I hope you **guys** have enjoyed the conference just as much as I have." I do my best to avoid referring to groups of people as guys but I failed on this occasion (and others). I apologize if I offended anyone - it was unintentional and I will continue to do my best not to.
 
 ## Overall Thoughts
 
