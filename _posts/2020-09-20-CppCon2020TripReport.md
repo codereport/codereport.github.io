@@ -154,6 +154,6 @@ And finally, as I mentioned in my CppCon talk, NVIDIA is always looking for top 
 
 A huge thank you to [Jon Kalb](https://twitter.com/_JonKalb), the organizing committee and all of the volunteers who worked extra hard this year. It was awesome to have CppCon happen virtually in the midst of such a challenging year.
 
-Feel free to leave a comment on the [reddit thread]().
+Feel free to leave a comment on the [reddit thread](https://old.reddit.com/r/cpp/comments/ix0e1l/cppcon_2020_trip_report/).
 
 <center>Hope to see you in person at a C++ conference in 2021!</center>
