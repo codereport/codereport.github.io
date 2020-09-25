@@ -113,7 +113,7 @@ There were five keynotes as usual this year.
 
 |Keynote Speaker|Talk|Previously Presented|
 |:-:|:-:|:-:|
-|Bjarne Stroustrup|The Beauty and Power of "Primitive" C++|-|
+|Bjarne Stroustrup|[The Beauty and Power of "Primitive" C++](https://www.youtube.com/watch?v=ERzENfQ51Ck)|-|
 |Marc Gregoire|C++20: An (Almost) Complete Overview|-|
 |Emery Berger|Performance Matters|[Strange Loop 2019](https://www.youtube.com/watch?v=r-TLSBdHe1A)|
 |Lisa Lippincott|Neighborhoods Banding Together|-|
@@ -125,7 +125,7 @@ The keynotes were enjoyable as always. Emery Berger's was my personal favorite, 
 
 My honorable mention talk list is below. I will update this list as I work my way through the backlog of talks that I haven't yet watched.
 
-* Template Metaprogramming: Type Traits - Jody Hagins
+* [Template Metaprogramming: Type Traits - Jody Hagins](https://www.youtube.com/watch?v=tiAVWcjIF6o)
 * Just-in-Time Compilation - JF Bastien
 * Just-in-Time Compilation: The Next Big Thing? - Ben Deane & Kris Jusiak
 * Back to Basics: Algebraic Data Types - Arthur O'Dwyer
