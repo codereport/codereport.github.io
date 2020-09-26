@@ -50,7 +50,7 @@ Overall, given that this was the first virtual CppCon, it was a major success. I
 
 ## Top 4 Talks
 
-Here are my picks for top four talks (of the ones I have watched - note at this point I have only watched 25/87 talks) for CppCon 2020. Note that my rankings are entirely biased - I am generally most interested in talks that focus on the following:
+Here are my picks for top four talks (of the ones I have watched - note at this point I have only watched 29/87 talks) for CppCon 2020. Note that my rankings are entirely biased - I am generally most interested in talks that focus on the following:
 
 * Algorithms
 * Functional programming
@@ -133,6 +133,7 @@ My honorable mention talk list is below. I will update this list as I work my wa
 * C++20 Ranges in Practice - Tristan Brindle
 * How C++20 Changes the Way We Write Code - Timur Doumler
 * OO Considered Harmful - Phil Nash 
+* Lakos’20: The “Dam” Book is Done! - John Lakos
 
 **Lightning Talks**
 
