@@ -126,7 +126,7 @@ The keynotes were enjoyable as always. Emery Berger's was my personal favorite, 
 My honorable mention talk list is below. I will update this list as I work my way through the backlog of talks that I haven't yet watched.
 
 * [Template Metaprogramming: Type Traits - Jody Hagins](https://www.youtube.com/watch?v=tiAVWcjIF6o)
-* Just-in-Time Compilation - JF Bastien
+* [Just-in-Time Compilation - JF Bastien](https://www.youtube.com/watch?v=tWvaSkgVPpA)
 * Just-in-Time Compilation: The Next Big Thing? - Ben Deane & Kris Jusiak
 * Back to Basics: Algebraic Data Types - Arthur O'Dwyer
 * C++20 STL Features: One Year of Development on GitHub - Stephan T. Lavavej
