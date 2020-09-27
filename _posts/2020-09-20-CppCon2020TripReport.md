@@ -114,7 +114,7 @@ There were five keynotes as usual this year.
 |Keynote Speaker|Talk|Previously Presented|
 |:-:|:-:|:-:|
 |Bjarne Stroustrup|[The Beauty and Power of "Primitive" C++](https://www.youtube.com/watch?v=ERzENfQ51Ck)|-|
-|Marc Gregoire[|C++20: An (Almost) Complete Overview](https://www.youtube.com/watch?v=FRkJCvHWdwQ)|-|
+|Marc Gregoire|[C++20: An (Almost) Complete Overview](https://www.youtube.com/watch?v=FRkJCvHWdwQ)|-|
 |Emery Berger|Performance Matters|[Strange Loop 2019](https://www.youtube.com/watch?v=r-TLSBdHe1A)|
 |Lisa Lippincott|Neighborhoods Banding Together|-|
 |Herb Sutter|Empirically Measuring & Reducing<br> C++’s Accidental Complexity|[Avast Prague Meetup](https://www.youtube.com/watch?v=qx22oxlQmKc) <br> [ACCU Autumn 2019](https://conference.accu.org/previous/2019_autumn/sessions/#XQuantifyingAccidentalComplexityAnEmpiricalLookatTeachingandUsingC)|
