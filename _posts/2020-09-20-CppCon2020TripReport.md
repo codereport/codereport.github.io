@@ -128,8 +128,8 @@ My honorable mention talk list is below. I will update this list as I work my wa
 * [Template Metaprogramming: Type Traits - Jody Hagins](https://www.youtube.com/watch?v=tiAVWcjIF6o)
 * [Just-in-Time Compilation - JF Bastien](https://www.youtube.com/watch?v=tWvaSkgVPpA)
 * Just-in-Time Compilation: The Next Big Thing? - Ben Deane & Kris Jusiak
-* Back to Basics: Algebraic Data Types - Arthur O'Dwyer
-* C++20 STL Features: One Year of Development on GitHub - Stephan T. Lavavej
+* [Back to Basics: Algebraic Data Types - Arthur O'Dwyer](https://www.youtube.com/watch?v=OJzmWqCCZaM)
+* [C++20 STL Features: One Year of Development on GitHub - Stephan T. Lavavej](https://www.youtube.com/watch?v=8kjRx8vo6y4)
 * C++20 Ranges in Practice - Tristan Brindle
 * How C++20 Changes the Way We Write Code - Timur Doumler
 * OO Considered Harmful - Phil Nash 
