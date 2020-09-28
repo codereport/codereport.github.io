@@ -64,7 +64,7 @@ Please keep that in mind while reading through the list
 |:-:|:-:|:-:|
 |1|David Sankel|Monoids, Monads, and Applicative Functors|
 |2|Ben Deane|Constructing Generic Algorithms|
-|3|Sy Brand|Building an Intuition for Composition|
+|3|Sy Brand|[Building an Intuition for Composition](https://www.youtube.com/watch?v=AGRWRwi7rD0)|
 |4|Emery Berger|Performance Matters|
 
 #### #1: Monoids, Monads, and Applicative Functors: Repeated Software Patterns
@@ -88,7 +88,7 @@ This is a talk that I had actually seen twice before: once from a unlisted YouTu
 #### #3: Building an Intuition for Composition
 
 **Speaker:** [Sy Brand](https://twitter.com/TartanLlama)<br>
-**Link:** To be updated in the future <br>
+**Link:** [Watch here](https://www.youtube.com/watch?v=AGRWRwi7rD0) <br>
 **Previously presented:** N/A
 
 This talk is a fantastic introduction to category theory (although that might not be clear from the title of the talk). Sy starts off slow and eases you into monoids, functors and monads with easy to understand examples. They make it clear that they understand that these concepts can be difficult to grasp. They say at one point:
