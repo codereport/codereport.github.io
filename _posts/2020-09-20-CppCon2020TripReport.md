@@ -63,9 +63,9 @@ Please keep that in mind while reading through the list
 ||Speaker|Talk|
 |:-:|:-:|:-:|
 |1|David Sankel|Monoids, Monads, and Applicative Functors|
-|2|Ben Deane|Constructing Generic Algorithms|
+|2|Ben Deane|[Constructing Generic Algorithms](https://www.youtube.com/watch?v=InMh3JxbiTs)|
 |3|Sy Brand|[Building an Intuition for Composition](https://www.youtube.com/watch?v=AGRWRwi7rD0)|
-|4|Emery Berger|Performance Matters|
+|4|Emery Berger|[Performance Matters](https://www.youtube.com/watch?v=koTf7u0v41o)|
 
 #### #1: Monoids, Monads, and Applicative Functors: Repeated Software Patterns
 
@@ -80,7 +80,7 @@ This talk is absolutely awesome. I was not expecting it to be "as good" as the o
 #### #2: Constructing Generic Algorithms: Principles and Practice
 
 **Speaker:** [Ben Deane](https://twitter.com/ben_deane)<br>
-**Link:** To be updated in the future <br>
+**Link:** [Watch here](https://www.youtube.com/watch?v=InMh3JxbiTs) <br>
 **Previously presented:** [MUC++ Meetup](https://www.youtube.com/watch?v=jCfbyjAyAKU)
 
 This is a talk that I had actually seen twice before: once from a unlisted YouTube link for the [North Denver Metro C++ Meetup](https://www.meetup.com/North-Denver-Metro-C-Meetup/) [YouTube channel](https://www.youtube.com/channel/UCK5v1dZu2AjHfHLIKTG8dPw/featured) and once at the [MUC++ Meetup](https://www.youtube.com/watch?v=jCfbyjAyAKU). If you have seen any of my previous talks, you will know two things: 1) I love algorithms 2) I am a huge fans of Ben Deane's talks (see a full list of his talks [here](https://www.youtube.com/playlist?list=PLVFrD1dmDdvea7aPDCrp9A1EAU3DLw7GE)). One of my favorite talks of all time was his [C++Now 2018 Easy to Use, Hard to Misuse](https://youtu.be/2ouxETt75R4) which ended up winning [Best Presentation](https://cppnow.org/announcements/2018/05/announcing-cpp-now-2019/) of the conference. His talk this year will walk you through how to iterate on designing a generic algorithm in the spirit of Alexander Stepanov and the STL.
@@ -100,7 +100,7 @@ I highly recommend for anyone interested in dipping their toe into the "category
 #### #4: Performance Matters
 
 **Speaker:** [Emery Berger](https://twitter.com/emeryberger)<br>
-**Link:** To be updated in the future <br>
+**Link:** [Watch here](https://www.youtube.com/watch?v=koTf7u0v41o) <br>
 **Previously presented:** [Strange Loop 2019](https://www.youtube.com/watch?v=r-TLSBdHe1A)
 
 This talk would have been higher on the list but I had already seen it before as it had been presented previously at another conference - which is surprising for a keynote. Emery gave a [talk at CppCon 2019](https://www.youtube.com/watch?v=XRAP3lBivYM) which was very good - and after this I went and tracked down his other talks. This led me to the previously given version of this talk. It currently is the 3rd most viewed video on the [Strange Loop YouTube Channel](https://www.youtube.com/c/StrangeLoopConf/videos) with 154K views (as of Sept. 20, 2020). Although it is #4 on the list - I highly recommend everyone watch it. It will make you re-think your perspective on profiling. When I watched it the first time, it made me think twice about the performance results that [Andrei Alexandrescu](https://twitter.com/incomputable) showed in his CppCon 2019 talk [Speed Is Found In The Minds of People](https://www.youtube.com/watch?v=FJJTYQYB1JQ). I would also like to thank Emery for using monospace fonts for his code samples (something that the majority of the keynote speakers didn't do).
@@ -115,7 +115,7 @@ There were five keynotes as usual this year.
 |:-:|:-:|:-:|
 |Bjarne Stroustrup|[The Beauty and Power of "Primitive" C++](https://www.youtube.com/watch?v=ERzENfQ51Ck)|-|
 |Marc Gregoire|[C++20: An (Almost) Complete Overview](https://www.youtube.com/watch?v=FRkJCvHWdwQ)|-|
-|Emery Berger|Performance Matters|[Strange Loop 2019](https://www.youtube.com/watch?v=r-TLSBdHe1A)|
+|Emery Berger|[Performance Matters](https://www.youtube.com/watch?v=koTf7u0v41o)|[Strange Loop 2019](https://www.youtube.com/watch?v=r-TLSBdHe1A)|
 |Lisa Lippincott|Neighborhoods Banding Together|-|
 |Herb Sutter|Empirically Measuring & Reducing<br> C++’s Accidental Complexity|[Avast Prague Meetup](https://www.youtube.com/watch?v=qx22oxlQmKc) <br> [ACCU Autumn 2019](https://conference.accu.org/previous/2019_autumn/sessions/#XQuantifyingAccidentalComplexityAnEmpiricalLookatTeachingandUsingC)|
 
