@@ -62,7 +62,7 @@ Please keep that in mind while reading through the list
 
 ||Speaker|Talk|
 |:-:|:-:|:-:|
-|1|David Sankel|Monoids, Monads, and Applicative Functors|
+|1|David Sankel|[Monoids, Monads, and Applicative Functors](https://www.youtube.com/watch?v=giWCdQ7fnQU)|
 |2|Ben Deane|[Constructing Generic Algorithms](https://www.youtube.com/watch?v=InMh3JxbiTs)|
 |3|Sy Brand|[Building an Intuition for Composition](https://www.youtube.com/watch?v=AGRWRwi7rD0)|
 |4|Emery Berger|[Performance Matters](https://www.youtube.com/watch?v=koTf7u0v41o)|
@@ -70,7 +70,7 @@ Please keep that in mind while reading through the list
 #### #1: Monoids, Monads, and Applicative Functors: Repeated Software Patterns
 
 **Speaker:** [David Sankel](https://twitter.com/david_sankel)<br>
-**Link:** To be updated in the future <br>
+**Link:** [Watch here](https://www.youtube.com/watch?v=giWCdQ7fnQU) <br>
 **Previously presented:** [C++Now 2016](https://www.youtube.com/watch?v=DiisKQAkGM4)
 
 This talk is absolutely awesome. I was not expecting it to be "as good" as the other live talks as it was prerecorded - but boy was I in for a surprise. The first several minutes is given in a kind of infomercial (think [Slap Chop](https://www.youtube.com/watch?v=FqWgTM4di4s)) style which is highly entertaining. Then at around the 8 minute mark, he introduces his kids as the audience members and asks them if his explanation of a [Monoid](https://en.wikipedia.org/wiki/Monoid_(category_theory)) makes sense to them. I literally laughed out loud. His kids are adorable and will make sitting through an introductory talk on [Category Theory](https://en.wikipedia.org/wiki/Category_theory) enjoyable for anyone. Note that I highly recommend the updated version of the talk due to 1) the entertainment factor and 2) the fact that the C++Now 2016 has very poor video/audio quality.
