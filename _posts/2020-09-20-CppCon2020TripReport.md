@@ -6,7 +6,7 @@ categories: [C++,CppCon,Trip Report]
 
 This was my second time attending [CppCon](https://twitter.com/CppCon). The first time I attended was in 2019, when I gave my first CppCon presentation in two parts, [Algorithm Intuition](https://www.youtube.com/watch?v=pUEnO6SvAMo) - although I personally recommend the [C++Now 2019 version](https://www.youtube.com/watch?v=48gV1SNm3WA) which is 30 minutes shorter. 
 
-This year I gave one lightning talk, **SICP Cover Demystified**  and one full length talk, **Structure and Interpretation of Computer Programs: SICP**, which focuses on the textbook of the same name (which is [available online for free](https://web.mit.edu/alexmv/6.037/sicp.pdf)) - which has been touted as:
+This year I gave one lightning talk, **SICP Cover Demystified**  and one full length talk, **[Structure and Interpretation of Computer Programs: SICP](https://www.youtube.com/watch?v=7oV7hiAsVTI)**, which focuses on the textbook of the same name (which is [available online for free](https://web.mit.edu/alexmv/6.037/sicp.pdf)) - which has been touted as:
 > "The best computer science book in the world." 
 > <br>\- Brian Harvey in [Why SICP Matters](https://people.eecs.berkeley.edu/~bh/sicp.html)
 
