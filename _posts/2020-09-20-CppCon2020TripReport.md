@@ -130,10 +130,10 @@ My honorable mention talk list is below. I will update this list as I work my wa
 * [Just-in-Time Compilation: The Next Big Thing? - Ben Deane & Kris Jusiak](https://www.youtube.com/watch?v=I3ov8HcdVKw)
 * [Back to Basics: Algebraic Data Types - Arthur O'Dwyer](https://www.youtube.com/watch?v=OJzmWqCCZaM)
 * [C++20 STL Features: One Year of Development on GitHub - Stephan T. Lavavej](https://www.youtube.com/watch?v=8kjRx8vo6y4)
-* C++20 Ranges in Practice - Tristan Brindle
+* [C++20 Ranges in Practice - Tristan Brindle](https://www.youtube.com/watch?v=d_E-VLyUnzc)
 * How C++20 Changes the Way We Write Code - Timur Doumler
-* OO Considered Harmful - Phil Nash 
-* Lakos’20: The “Dam” Book is Done! - John Lakos
+* [OO Considered Harmful - Phil Nash](https://www.youtube.com/watch?v=pH-q2m5sb04)
+* [Lakos’20: The “Dam” Book is Done! - John Lakos](https://www.youtube.com/watch?v=d3zMfMC8l5U)
 * [Making Games Start Fast: A Story About Concurrency - Mathieu Ropert](https://www.youtube.com/watch?v=TcuPIVKNSN0)
 
 **Lightning Talks**
