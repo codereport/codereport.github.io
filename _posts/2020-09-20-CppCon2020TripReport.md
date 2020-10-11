@@ -117,7 +117,7 @@ There were five keynotes as usual this year.
 |Marc Gregoire|[C++20: An (Almost) Complete Overview](https://www.youtube.com/watch?v=FRkJCvHWdwQ)|-|
 |Emery Berger|[Performance Matters](https://www.youtube.com/watch?v=koTf7u0v41o)|[Strange Loop 2019](https://www.youtube.com/watch?v=r-TLSBdHe1A)|
 |Lisa Lippincott|[Neighborhoods Banding Together](https://www.youtube.com/watch?v=Zjy8RCb8p7M)|-|
-|Herb Sutter|Empirically Measuring & Reducing<br> C++’s Accidental Complexity|[Avast Prague Meetup](https://www.youtube.com/watch?v=qx22oxlQmKc) <br> [ACCU Autumn 2019](https://conference.accu.org/previous/2019_autumn/sessions/#XQuantifyingAccidentalComplexityAnEmpiricalLookatTeachingandUsingC)|
+|Herb Sutter|[Empirically Measuring & Reducing<br> C++’s Accidental Complexity](https://www.youtube.com/watch?v=6lurOCdaj0Y)|[Avast Prague Meetup](https://www.youtube.com/watch?v=qx22oxlQmKc) <br> [ACCU Autumn 2019](https://conference.accu.org/previous/2019_autumn/sessions/#XQuantifyingAccidentalComplexityAnEmpiricalLookatTeachingandUsingC)|
 
 The keynotes were enjoyable as always. Emery Berger's was my personal favorite, and Lisa Lippincott's was my runner up. My one comment on the keynotes is that 3 of the 5 keynote presenters don't use monospace fonts in their slide decks. I find it hard to focus on code that isn't in monospace font; all I can think is "why isn't this in a monospace font." 
 
@@ -131,7 +131,7 @@ My honorable mention talk list is below. I will update this list as I work my wa
 * [Back to Basics: Algebraic Data Types - Arthur O'Dwyer](https://www.youtube.com/watch?v=OJzmWqCCZaM)
 * [C++20 STL Features: One Year of Development on GitHub - Stephan T. Lavavej](https://www.youtube.com/watch?v=8kjRx8vo6y4)
 * [C++20 Ranges in Practice - Tristan Brindle](https://www.youtube.com/watch?v=d_E-VLyUnzc)
-* How C++20 Changes the Way We Write Code - Timur Doumler
+* [How C++20 Changes the Way We Write Code - Timur Doumler](https://www.youtube.com/watch?v=ImLFlLjSveM)
 * [OO Considered Harmful - Phil Nash](https://www.youtube.com/watch?v=pH-q2m5sb04)
 * [Lakos’20: The “Dam” Book is Done! - John Lakos](https://www.youtube.com/watch?v=d3zMfMC8l5U)
 * [Making Games Start Fast: A Story About Concurrency - Mathieu Ropert](https://www.youtube.com/watch?v=TcuPIVKNSN0)
