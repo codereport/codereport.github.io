@@ -140,7 +140,7 @@ My honorable mention talk list is below. I will update this list as I work my wa
 
 My top five lightning talks were:
 
-* Drinking from the Fire Hose - Brian Ruth
+* [Drinking from the Fire Hose](https://www.youtube.com/watch?v=kO-cNY8nX70) - Brian Ruth
 * How We Used To Be - [Ben Deane](https://twitter.com/ben_deane)
 * A picture is worth a thousand words - [Honey Sukesan](https://twitter.com/HSukesan)
 * How to Cook a Chicken - [Sy Brand](https://twitter.com/TartanLlama)
