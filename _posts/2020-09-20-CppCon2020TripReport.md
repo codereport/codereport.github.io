@@ -141,7 +141,7 @@ My honorable mention talk list is below. I will update this list as I work my wa
 My top five lightning talks were:
 
 * [Drinking from the Fire Hose](https://www.youtube.com/watch?v=kO-cNY8nX70) - Brian Ruth
-* How We Used To Be - [Ben Deane](https://twitter.com/ben_deane)
+* [How We Used To Be](https://www.youtube.com/watch?v=ip_SR9CQrxk) - [Ben Deane](https://twitter.com/ben_deane)
 * A picture is worth a thousand words - [Honey Sukesan](https://twitter.com/HSukesan)
 * How to Cook a Chicken - [Sy Brand](https://twitter.com/TartanLlama)
 * Reasoning with function signatures - Gabriel Aubut-Lussier
