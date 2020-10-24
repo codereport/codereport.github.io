@@ -142,9 +142,9 @@ My top five lightning talks were:
 
 * [Drinking from the Fire Hose](https://www.youtube.com/watch?v=kO-cNY8nX70) - Brian Ruth
 * [How We Used To Be](https://www.youtube.com/watch?v=ip_SR9CQrxk) - [Ben Deane](https://twitter.com/ben_deane)
-* A picture is worth a thousand words - [Honey Sukesan](https://twitter.com/HSukesan)
-* How to Cook a Chicken - [Sy Brand](https://twitter.com/TartanLlama)
-* Reasoning with function signatures - Gabriel Aubut-Lussier
+* [A picture is worth a thousand words](https://www.youtube.com/watch?v=hQjJzb-c05o) - [Honey Sukesan](https://twitter.com/HSukesan)
+* [How to Cook a Chicken](https://www.youtube.com/watch?v=K6qvL_buqc0) - [Sy Brand](https://twitter.com/TartanLlama)
+* [Reasoning with function signatures](https://www.youtube.com/watch?v=8rU6eEiRV5k) - Gabriel Aubut-Lussier
 
 It is awesome to see first-time attendees (like Honey) stepping up to give a lightning talk! And Gabriel's talk made the top five because his cat was a co-presenter 😂.
 
