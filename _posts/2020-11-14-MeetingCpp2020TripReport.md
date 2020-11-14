@@ -47,7 +47,7 @@ I am not sure what the limit is for table size on Remo - but the size of 6 that 
 
 ## Overall Thoughts
 
-The virtual Meeting C++ was enjoyable but I definitely missed the in person aspect from the previous year's meeting The highlights were:
+The virtual Meeting C++ was enjoyable but I definitely missed the in person aspect from the previous year's meeting. The highlights were:
 
 * Jonathan O'Connor's talk on Templates
 * Dawid Zalewski's talk on Lambdas
