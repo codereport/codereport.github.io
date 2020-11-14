@@ -122,6 +122,6 @@ This was a continuation of Dawid's talk from Meeting C++2019, "Lambdas - the old
 
 Thanks to the volunteers and organizers of the conference. It was great to meet and chat with C++ folks online.
 
-Feel free to leave a comment on the [reddit thread]().
+Feel free to leave a comment on the [reddit thread](https://old.reddit.com/r/cpp/comments/juald6/meeting_c_2020_trip_report/).
 
 <center>Hope to see you in person at a C++ conference in 2021 or 2022!</center>
