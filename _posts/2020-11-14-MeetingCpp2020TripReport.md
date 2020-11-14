@@ -43,6 +43,8 @@ From my experience, two things stand out:
 
 I am not sure what the limit is for table size on Remo - but the size of 6 that Meeting C++ chose I found to be too small. Typically what happened in the Meeting C++ Remo was there was only 1 or 2 tables with conversations happening. If there is only going to be 1 or 2 tables of active conersation, it is better (in my opinion) to have those tables be a bit larger.
 
+![image](https://user-images.githubusercontent.com/36027403/99158131-9109ed80-269d-11eb-9a62-009867e794d0.png)
+
 ## Overall Thoughts
 
 The virtual Meeting C++ was enjoyable but I definitely missed the in person aspect from the previous year's meeting The highlights were:
