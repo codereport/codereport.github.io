@@ -63,9 +63,9 @@ If there is one thing I would improve on it would be have more "new" talks. From
 
 |Day|Speaker|Talk|
 |:-:|:-:|:-:|
-|1|Jonathan Boccara|Metapolymorphism|
-|2|Teresa Johnson|ThinLTO: Whole Program Optimization|
-|3|Gabriel Dos Reis|Programming in the Large with C++20|
+|1|Jonathan Boccara|[Metapolymorphism](https://www.youtube.com/watch?v=mU_n_ohIHQk)|
+|2|Teresa Johnson|[ThinLTO: Whole Program Optimization](https://www.youtube.com/watch?v=VAMvr1rXmg8)|
+|3|Gabriel Dos Reis|[Programming in the Large with C++20](https://www.youtube.com/watch?v=j4du4LNsLiI)|
 
 #### Talks
 
@@ -75,7 +75,7 @@ If there is one thing I would improve on it would be have more "new" talks. From
 |1|Nicolai Josuttis|Hidden Features and <br>Traps of C++ Move Semantics|[CppCon 2020](https://www.youtube.com/watch?v=TFMKjL38xAI)<br> [Italian C++ 2020](https://youtu.be/OOLR96-GjsI?t=1633)|
 |1|Conor Hoekstra|C++ Concepts vs Rust Traits <br>vs Haskell Typeclasses <br>vs Swift Protocols|C++TO|
 |2|Sy Brand|Building an Intuition for Composition|[CppCon 2020](https://www.youtube.com/watch?v=AGRWRwi7rD0)|
-|2|Jonathan O'Connor|Template Shenanigans|-|
+|2|Jonathan O'Connor|[Template Shenanigans](https://www.youtube.com/watch?v=83fMx7Grxys)|-|
 |2|Jonathan Müller|The Static Initialization Order Fiasco|[MUC++](https://www.youtube.com/watch?v=dlTrziwQU-w)|
 |2|Dawid Zalewski|Lambdas, uses and abuses|-|
 |2|Phil Nash|OO Considered Harmful|[CppCon 2020](https://youtu.be/pH-q2m5sb04)|
@@ -88,7 +88,7 @@ If there is one thing I would improve on it would be have more "new" talks. From
 |Day|Speaker|AMA/Panel|
 |:-:|:-:|:-:|
 |1|Jason Turner & Rob Irving|AMA|
-|1|D&I|Panel|
+|1|D&I|[Panel](https://www.youtube.com/watch?v=5Typh0bp2SY)|
 |2|Hana Dusíková|AMA|
 |3|Bjarne Stroustrup|AMA|
 |3|Nicolai Josuttis|AMA|
@@ -100,7 +100,7 @@ For my favorite talks, I chose from talks that I hadn't already seen at a previo
 #### #1: Template Shenanigans: Testing, debugging and benchmarking template code
 
 **Speaker:** [Jonathan O'Connor](https://twitter.com/ninkibah)<br>
-**Link:** To be updated in the future <br>
+**Link:** [Watch Here](https://www.youtube.com/watch?v=83fMx7Grxys) <br>
 
 Alpacas! Sy Brand may have kittens, but Jonathan O'Connor has alpacas (and pointed out that I do not - at least for now). Alpacas aside, this talk was a distillation of resources for development and debugging tools for metaprogramming in C++. This is a subset of tools/techniques covered (there were many more):
 
