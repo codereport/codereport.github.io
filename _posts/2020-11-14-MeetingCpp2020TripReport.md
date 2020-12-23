@@ -77,7 +77,7 @@ If there is one thing I would improve on it would be have more "new" talks. From
 |2|Sy Brand|Building an Intuition for Composition|[CppCon 2020](https://www.youtube.com/watch?v=AGRWRwi7rD0)|
 |2|Jonathan O'Connor|[Template Shenanigans](https://www.youtube.com/watch?v=83fMx7Grxys)|-|
 |2|Jonathan Müller|The Static Initialization Order Fiasco|[MUC++](https://www.youtube.com/watch?v=dlTrziwQU-w)|
-|2|Dawid Zalewski|Lambdas, uses and abuses|-|
+|2|Dawid Zalewski|[Lambdas, uses and abuses](https://www.youtube.com/watch?v=Onv9w6FGwIQ)|-|
 |2|Phil Nash|OO Considered Harmful|[CppCon 2020](https://youtu.be/pH-q2m5sb04)|
 |3|Klaus Iglberger|Calling Functions: A Tutorial|[CppCon 2020](https://www.youtube.com/watch?v=GydNMuyQzWo)<br>[MUC++](https://www.youtube.com/watch?v=B9RT5sVunmk)|
 |3|Rainer Grimm|40 Years Of Evolution <br>from Functions to Coroutines|[CppCon 2020](https://youtu.be/jd6P9X8l2bY)|
@@ -114,7 +114,7 @@ Alpacas! Sy Brand may have kittens, but Jonathan O'Connor has alpacas (and point
 #### #2: Lambdas, uses and abuses
 
 **Speaker:** Dawid Zalewski<br>
-**Link:** To be updated in the future <br>
+**Link:** [Watch Here](https://www.youtube.com/watch?v=Onv9w6FGwIQ) <br>
 
 This was a continuation of Dawid's talk from Meeting C++2019, "Lambdas - the old, the new and the tricky" (which doesn't seem to be online yet). It quickly went from the basics and worked it's way up to implement the Y-Combinator using lambdas. A great talk that everyone should check out (as well as his 2019 talk when it goes online).
 
