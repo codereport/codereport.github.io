@@ -54,6 +54,6 @@ auto find(auto f, auto l, auto val) {
 
 That's all. Happy coding!
 
-Feel free to leave a comment on the [reddit thread]() or [tweet]().
+Feel free to leave a comment on the [reddit thread](https://old.reddit.com/r/cpp/comments/lzrqv4/algorithm_selection/) or [tweet](https://twitter.com/code_report/status/1368569503379042304).
 
 
