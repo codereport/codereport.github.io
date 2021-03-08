@@ -52,6 +52,37 @@ auto find(auto f, auto l, auto val) {
 ```
 [Godbolt link](https://www.godbolt.org/z/Ts5ca1)
 
+_____
+
+### Update
+
+[Stephan T. Lavavej](https://twitter.com/StephanTLavavej) (aka STL, one of the [MSVC Standard Library](https://github.com/microsoft/STL/graphs/contributors?from=2019-09-01&to=2021-03-08&type=a) implementers) pointed out that `is_partitioned_until` and `is_partitioned` could be added to the diagram.
+
+<center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">is_partitioned_until and is_partitioned could be added to the diagram, as they can be thought of as weaker versions of is_sorted.</p>&mdash; Stephan T. Lavavej (@StephanTLavavej) <a href="https://twitter.com/StephanTLavavej/status/1368701581839925251?ref_src=twsrc%5Etfw">March 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+
+So i updated my diagram. Note that `is_partitioned_until` isn't actually in the C++ Standard Library which is why it is in grey. The code snippets have been provided as well.
+
+![image](https://user-images.githubusercontent.com/36027403/110389223-37557680-8032-11eb-867c-39d8d67b7b1b.png)
+
+```cpp
+auto is_partitioned_until(auto f, auto l, auto pred) {
+    return std::next(std::adjacent_find(f, l, [&](auto a, auto b) { 
+        return not pred(a) and pred(b);
+    }));
+}
+
+auto is_partitioned(auto f, auto l, auto pred) {
+    return is_partitioned_until(f, l, pred) != l;
+}
+```
+[Updated Godbolt](https://www.godbolt.org/z/YrfbTf)
+
+Finally, I have received a couple comments on Reddit and Twitter asking "Why?" or stating that I did not provide any reasoning. That was an oversight on my part. 
+
+> The motivation for choosing the most specialized algorithm is that it leads to simpler and more readable code. 
+
+The more specialized algorithms contain more *meaning* and therefore communicates more information to futures readers of the code. For example, `is_sorted` is much more meaningful than `adjacent_find` with the `less` function object. Furthermore, code using more specialized algorithms is simpler. An example of this is that using many of the specialized algorithms avoids having to write `!= container.end()`.
+
 That's all. Happy coding!
 
 Feel free to leave a comment on the [reddit thread](https://old.reddit.com/r/cpp/comments/lzrqv4/algorithm_selection/) or [tweet](https://twitter.com/code_report/status/1368569503379042304).
