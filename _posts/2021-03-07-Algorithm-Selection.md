@@ -60,7 +60,7 @@ _____
 
 <center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">is_partitioned_until and is_partitioned could be added to the diagram, as they can be thought of as weaker versions of is_sorted.</p>&mdash; Stephan T. Lavavej (@StephanTLavavej) <a href="https://twitter.com/StephanTLavavej/status/1368701581839925251?ref_src=twsrc%5Etfw">March 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
-So i updated my diagram. Note that `is_partitioned_until` isn't actually in the C++ Standard Library which is why it is in grey. The code snippets have been provided as well.
+So I updated my diagram. Note that `is_partitioned_until` isn't actually in the C++ Standard Library which is why it is in grey. The code snippets have been provided as well.
 
 ![image](https://user-images.githubusercontent.com/36027403/110389223-37557680-8032-11eb-867c-39d8d67b7b1b.png)
 
@@ -81,7 +81,7 @@ Finally, I have received a couple comments on Reddit and Twitter asking "Why?" o
 
 > The motivation for choosing the most specialized algorithm is that it leads to simpler and more readable code. 
 
-The more specialized algorithms contain more *meaning* and therefore communicates more information to futures readers of the code. For example, `is_sorted` is much more meaningful than `adjacent_find` with the `less` function object. Furthermore, code using more specialized algorithms is simpler. An example of this is that using many of the specialized algorithms avoids having to write `!= container.end()`.
+The more specialized algorithms contain more *meaning* and therefore communicates more information to futures readers of the code. For example, `is_sorted` is much more meaningful than `adjacent_find` with the `greater` function object or the `less_equal` function object + `not_fn`. Furthermore, code using more specialized algorithms is simpler. An example of this is that using many of the specialized algorithms avoids having to write `!= container.end()`.
 
 That's all. Happy coding!
 
