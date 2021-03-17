@@ -81,7 +81,7 @@ Finally, I have received a couple comments on Reddit and Twitter asking "Why?" o
 
 > The motivation for choosing the most specialized algorithm is that it leads to simpler and more readable code. 
 
-The more specialized algorithms contain more *meaning* and therefore communicates more information to futures readers of the code. For example, `is_sorted` is much more meaningful than `adjacent_find` with the `greater` function object or the `less_equal` function object + `not_fn`. Furthermore, code using more specialized algorithms is simpler. An example of this is that using many of the specialized algorithms avoids having to write `!= container.end()`.
+The more specialized algorithms contain more *meaning* and therefore communicates more information to future readers of the code. For example, `is_sorted` is much more meaningful than `adjacent_find` with the `greater` function object or the `less_equal` function object + `not_fn`. Furthermore, code using more specialized algorithms is simpler. An example of this is that using many of the specialized algorithms avoids having to write `!= container.end()`.
 
 That's all. Happy coding!
 
