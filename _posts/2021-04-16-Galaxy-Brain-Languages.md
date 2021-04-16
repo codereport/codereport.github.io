@@ -60,3 +60,7 @@ So next time you choose to learn a new language - choose one that will teach you
 
 Feel free to leave a comment on the [reddit thread]().
 
+If you enjoyed this article, feel free to check out the [Algorithms + Data Structures = Programs Podcast](https://adspthepodcast.com/) episode on Galaxy Brain Programming Languages.
+
+<div id="buzzsprout-player-8347258"></div>
+<script src="https://www.buzzsprout.com/1501960/8347258-episode-21-galaxy-brain-programming-languages.js?container_id=buzzsprout-player-8347258&player=small" type="text/javascript" charset="utf-8"></script>
