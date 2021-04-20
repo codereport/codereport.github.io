@@ -58,7 +58,7 @@ So next time you choose to learn a new language - choose one that will teach you
 
 ![image](https://user-images.githubusercontent.com/36027403/112069752-c25e6280-8b42-11eb-8d19-6736b15dae20.png)
 
-Feel free to leave a comment on the [reddit thread](https://old.reddit.com/r/programming/comments/ms5n3c/galaxy_brain_programming_languages/).
+Feel free to leave a comment on the [reddit thread](https://old.reddit.com/r/programming/comments/ms5n3c/galaxy_brain_programming_languages/?ref=share&ref_source=link).
 
 If you enjoyed this article, feel free to check out the [Algorithms + Data Structures = Programs Podcast](https://adspthepodcast.com/) episode on Galaxy Brain Programming Languages.
 
