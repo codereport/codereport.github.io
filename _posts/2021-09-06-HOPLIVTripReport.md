@@ -56,6 +56,6 @@ Several folks asked if the discussion was recorded but sadly it was not. However
 
 Thanks to the volunteers and organizers of the conference. It was great to meet and chat with programming language folks online.
 
-Feel free to leave a comment on the [reddit thread]().
+Feel free to leave a comment on the [reddit thread](https://old.reddit.com/r/ProgrammingLanguages/comments/pjes2y/a_brief_hopl_iv_trip_report/?).
 
 <center>Hope to see you in person at a conference 2022!</center>
