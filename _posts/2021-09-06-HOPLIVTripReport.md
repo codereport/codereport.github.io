@@ -11,7 +11,7 @@ This trip report is a bit delayed, but better late than never. [HOPL](https://en
 * [2007 - HOPL III (San Diego, CA, USA)](https://en.wikipedia.org/wiki/History_of_Programming_Languages#HOPL_III)
 * [2021 - HOPL IV (Online)](https://en.wikipedia.org/wiki/History_of_Programming_Languages#HOPL_IV)
 
-HOPL IV took place from June 20 to 22. HOPL IV was originally supposed to take place in 2020, but due to COVID is was postponed to 2021 and happened virtually.
+HOPL IV took place from June 20 to 22. HOPL IV was originally supposed to take place in 2020, but due to COVID it was postponed to 2021 and happened virtually.
 
 ## Talks
 
@@ -41,7 +41,7 @@ Here is a list of all the talks given and hyperlinks if you would like to watch 
 
 ## Highlights 
 
-My top two favorite talks were the histories of [APL](https://www.pldi21.org/prerecorded_hopl.2.html) and [Clojure](https://www.pldi21.org/prerecorded_hopl.11.html). They were both great talks but I am also a bit biased because as of September 2021, APL is my #1 favorite language and Clojure is my #3 favorite language. The other highlight of the conference were the conversations that took place in between the talks. I spent a lot of time talking with [Aaron Hsu](), author of [Co-dfns](https://www.google.com/search?q=co-dfns&oq=co-dfns&aqs=chrome..69i57j69i61.1233j0j7&sourceid=chrome&ie=UTF-8), a GPU-accelerated APL compiler. At one point, we had a great group conversation with the following folks:
+My top two favorite talks were the histories of [APL](https://www.pldi21.org/prerecorded_hopl.2.html) and [Clojure](https://www.pldi21.org/prerecorded_hopl.11.html). They were both great talks but I am also a bit biased because APL is my #1 favorite language and Clojure is my #3 favorite language. The other highlight of the conference were the conversations that took place in between the talks. I spent a lot of time talking with [Aaron Hsu](), author of [Co-dfns](https://www.google.com/search?q=co-dfns&oq=co-dfns&aqs=chrome..69i57j69i61.1233j0j7&sourceid=chrome&ie=UTF-8), a GPU-accelerated APL compiler. At one point, we had a great group conversation with the following folks:
 
 * Aaron Hsu, Dyalog, author of [Co-dfns](https://www.google.com/search?q=co-dfns&oq=co-dfns&aqs=chrome..69i57j69i61.1233j0j7&sourceid=chrome&ie=UTF-8)
 * [Troels Henriksen](https://twitter.com/sigkill_dk), creator of [Futhark](https://futhark-lang.org/)
@@ -50,7 +50,7 @@ My top two favorite talks were the histories of [APL](https://www.pldi21.org/pre
 
 <center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Highlight of <a href="https://twitter.com/PLDI?ref_src=twsrc%5Etfw">@PLDI</a> 2021 so far: an awesome conversation with Aaron Hsu (<a href="https://twitter.com/dyalogapl?ref_src=twsrc%5Etfw">@dyalogapl</a> &amp; Co-dfns), Justin Slepak (Remora &amp; <a href="https://twitter.com/hashtag/jlang?src=hash&amp;ref_src=twsrc%5Etfw">#jlang</a>), <a href="https://twitter.com/sigkill_dk?ref_src=twsrc%5Etfw">@sigkill_dk</a> (Futhark) and <a href="https://twitter.com/apaszke?ref_src=twsrc%5Etfw">@apaszke</a> (<a href="https://twitter.com/PyTorch?ref_src=twsrc%5Etfw">@pytorch</a>, JAX &amp; Dex) at ARRAY 2021! (permission for screenshot was approved by all) <a href="https://t.co/aP5HBqiwZB">pic.twitter.com/aP5HBqiwZB</a></p>&mdash; Conor Hoekstra (@code_report) <a href="https://twitter.com/code_report/status/1407062396267544581?ref_src=twsrc%5Etfw">June 21, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
-Several folks asked if the discussion was recorded but sadly it was not. However, there is potential to reconvene the panel at some point or have them on [ArrayCast](https://www.arraycast.com/), a podcast on Array Languages that I host.
+Several folks asked if the discussion was recorded but sadly it was not. However, there is potential to reconvene the panel at some point or have them on [ArrayCast](https://www.arraycast.com/), a podcast on array languages that I host.
 
 ## Thank You
 
