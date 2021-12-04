@@ -14,7 +14,7 @@ This tweet restates a point that Ben asserts in a blog post of his from 2007 cal
 1. **ALGOL:** (1958) The original imperative programming language
 2. **Forth:** (1970) The original stack-based programming language
 3. **Lisp:** (1958) The original Lisp
-4. **Haskell:** (1990) A pure functional langauge
+4. **Haskell:** (1990) A pure functional language
 5. **Smalltalk:** (1972) The original object-oriented programming language
 6. **Erlang:** (1986) The original actor-based/concurrent programming language
 7. **Prolog:** (1972) The original logic programming language
