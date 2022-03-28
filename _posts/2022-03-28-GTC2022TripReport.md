@@ -110,7 +110,7 @@ For the sake of transparency, I should state that Bryce and I have a [podcast](h
 
 ### [⭐ Shifting through the Gears of GPU Programming](https://reg.rainfocus.com/flow/nvidia/gtcspring2022/aplive/page/ap/session/1638453336105001vPx8)
 
-#### Speaker: Jeff Hammond
+#### Speaker: [Jeff Hammond](https://twitter.com/science_dot)
 
 This might be my favorite talk of the conference as it was the only talk that I tweeted about during the conference. Jeff takes you through a whirlwind history of GPU computing and then compares different models / languages for accelerating your code on GPUs and compares to see which is fastest over three different examples. Definitely worth the watch if you have 30 minutes (or 15 minutes on 2x).
 
