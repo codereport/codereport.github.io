@@ -130,4 +130,4 @@ Last but not least, this panel was definitely my favorite panel / CWE of GTC 202
 
 This was my third virtual GTC I have "attended" since joining NVIDIA back in 2019. I've got my fingers crossed that in 2023 we will be able to attend in person and I can meet some of you there!
 
-Feel free to leave a comment on the [reddit thread]().
+Feel free to leave a comment on the [reddit thread](https://old.reddit.com/r/nvidia/comments/tqfm1g/nvidia_gtc_2022_trip_report/?).
