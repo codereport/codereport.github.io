@@ -10,19 +10,19 @@ On the most recent episode of [ArrayCast](https://www.arraycast.com/), we interv
 
 While talking to Troels about accelerating array languages, I asked what other languages and projects operate in the same space. This short blog post is basically highlighting the response we got from Troels.
 
-* 🇩🇰 **[Futhark](https://futhark-lang.org/)**, Haskell-inspired language out of DIKU at the University of Copenhagen
-* 🏴󠁧󠁢󠁳󠁣󠁴󠁿 **[Single Assignment C](https://www.sac-home.org/index)** (SaC), C-inspired language out of Heriot-Watt University
-* 🇺🇸 **[Dex](https://github.com/google-research/dex-lang)**, research language out of Google
-* 🇺🇸 **[Co-dfns](https://github.com/Co-dfns/Co-dfns)**, APL compiler out of Indiana University / Aaron Hsu
-* 🇦🇺 **[Accelerate](https://www.acceleratehs.org/)**, Haskell library out of University of New South Wales and NVIDIA
-* 🇺🇸 **[Copperhead](https://developer.nvidia.com/blog/copperhead-data-parallel-python/)**, discontinued Python-inspired research language out of NVIDIA
+* 🇩🇰 **[Futhark](https://futhark-lang.org/)**, a Haskell-inspired language out of DIKU at the University of Copenhagen
+* 🏴󠁧󠁢󠁳󠁣󠁴󠁿 **[Single Assignment C](https://www.sac-home.org/index)** (SaC), a C-inspired language out of Heriot-Watt University
+* 🇺🇸 **[Dex](https://github.com/google-research/dex-lang)**, a research array language out of Google
+* 🇺🇸 **[Co-dfns](https://github.com/Co-dfns/Co-dfns)**, an APL compiler out of Indiana University / Aaron Hsu
+* 🇦🇺 **[Accelerate](https://www.acceleratehs.org/)**, a Haskell library out of University of New South Wales and NVIDIA
+* 🇺🇸 **[Copperhead](https://developer.nvidia.com/blog/copperhead-data-parallel-python/)**, a discontinued Python-inspired research language out of NVIDIA
 
 On top of this, several other initiatives were mentioned, including:
 
 * 🇩🇰 **[Typed Array Intermediate Language (TAIL)](http://hiperfit.dk/pdf/array14_final.pdf)**, out of the University of Copenhagen
 * 🇩🇰 **[apltail](https://github.com/melsman/apltail)**, an APL compiler targeting TAIL, out of the University of Copenhagen
 * 🇺🇸 **[Remora](https://www.ccs.neu.edu/home/jrslepak/typed-j.pdf)**, a typed array language out of Northeastern University
-* 🇨🇦 **[APEX](https://gitlab.com/bernecky/apex)**, Dyalog APL compiler targeting SaC out of Snake Island Research
+* 🇨🇦 **[APEX](https://gitlab.com/bernecky/apex)**, a Dyalog APL compiler targeting SaC out of Snake Island Research
 
 
 The following people have been or are actively involved in working on the above projects:
