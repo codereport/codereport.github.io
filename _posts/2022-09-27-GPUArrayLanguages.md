@@ -17,7 +17,7 @@ While talking to Troels about accelerating array languages, I asked what other l
 * 🇺🇸 **[Dex](https://github.com/google-research/dex-lang)**, a research array language out of Google
 * 🇺🇸 **[Co-dfns](https://github.com/Co-dfns/Co-dfns)**, an APL compiler out of Indiana University / Aaron Hsu
 * 🇦🇺 **[Accelerate](https://www.acceleratehs.org/)**, a Haskell library out of University of New South Wales and NVIDIA
-* 🇺🇸 **[Copperhead](https://developer.nvidia.com/blog/copperhead-data-parallel-python/)**, a discontinued Python-inspired research language out of NVIDIA
+* 🇺🇸 **[Copperhead](https://github.com/bryancatanzaro/copperhead)**, a Python-inspired research language/compiler out of NVIDIA
 
 On top of this, several other initiatives were mentioned, including:
 
@@ -26,10 +26,9 @@ On top of this, several other initiatives were mentioned, including:
 * 🇺🇸 **[Remora](https://www.ccs.neu.edu/home/jrslepak/typed-j.pdf)**, a typed array language out of Northeastern University
 * 🇨🇦 **[APEX](https://gitlab.com/bernecky/apex)**, a Dyalog APL compiler targeting SaC out of Snake Island Research
 
-
 The following people have been or are actively involved in working on the above projects:
 
-|Project|Individual*|Twitter|GitHub|Array Cast?|
+|Project|Individual*|Twitter|GitHub|ArrayCast?|
 |:-:|:-:|:-:|:-:|:-:|
 |Futhark|[Troels Henriksen](https://sigkill.dk/)|[Twitter](https://twitter.com/sigkill_dk)|[GitHub](https://github.com/Athas/sigkill.dk)|Episode 37|
 |Co-dfns|[Aaron Hsu](https://www.sacrideo.us/)|-|[GitHub](https://github.com/arcfide)|[Episode 19](https://www.arraycast.com/episodes/episode19-aaron-hsu)|
