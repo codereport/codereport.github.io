@@ -6,6 +6,8 @@ categories: [Programming Languages, Array Languages, GPU]
 
 *This blog post is a draft and will be officially released on October 1, 2022.*
 
+![image](https://user-images.githubusercontent.com/36027403/193055974-8d8008a2-a1e6-4bd4-8ecc-7624fa611f25.png)
+
 On the most recent episode of [ArrayCast](https://www.arraycast.com/), we interviewed [Troels Henriksen](https://sigkill.dk/) about [the Futhark Programming Language](https://futhark-lang.org/). From the website, "Futhark is a statically typed, data-parallel, and purely functional array language in the ML family, and comes with a heavily optimising ahead-of-time compiler that presently generates either GPU code via CUDA and OpenCL, or multi-threaded CPU code."
 
 While talking to Troels about accelerating array languages, I asked what other languages and projects operate in the same space. This short blog post is basically highlighting the response we got from Troels.
@@ -53,7 +55,13 @@ Some honorable mention projects (some that didn't get mentioned) but are relevan
 * [**PyTorch**](https://github.com/pytorch/pytorch), tensors and dynamic neural networks in Python with strong GPU acceleration
 * [**TensorFlow**](https://github.com/tensorflow/tensorflow), an open source platform for machine learning
 * [**Nx**](https://github.com/elixir-nx/nx), multidimensional arrays (tensors) and numerical definitions for Elixir
+* [**MLIR**](https://mlir.llvm.org/), a hybrid IR for building compiler infrastructure
 
-Finally, while compiling all the links for this blog, I came across [A comparison of Futhark and Dex](https://futhark-lang.org/blog/2020-12-28-futhark-and-dex.html) which definitely might be of interest to some of the readers.
+Other links of interest that I came across while compiling all the links for this blog are:
+
+* [A comparison of Futhark and Dex](https://futhark-lang.org/blog/2020-12-28-futhark-and-dex.html)
+* [Array language compilation in context](https://mlochbaum.github.io/BQN/implementation/compile/intro.html) specifically the section on [Typed Array Languages](https://mlochbaum.github.io/BQN/implementation/compile/intro.html#typed-array-languages)
+
+Finally, you can find comparisons of different array languages at my [Array Language Comparison GitHub repository](https://github.com/codereport/array-language-comparisons), which is where the graphic at the top of the article is from.
 
 Feel free to leave a comment on the [reddit thread]().
