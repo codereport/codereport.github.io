@@ -46,11 +46,12 @@ The following people have been or are actively involved in working on the above 
 
 My plan is to try and have as many of the above folks on ArrayCast in the future. I will update this blog post with links whenever one of them appears.
 
-Some honorable mention projects that didn't get mentioned but are relevant to the space are:
+Some honorable mention projects (some that didn't get mentioned) but are relevant to the space are:
 
 * [**JAX**](https://github.com/google/jax), Autograd and XLA, brought together for high-performance ML research
 * [**XLA**](https://www.tensorflow.org/xla), a domain-specific compiler for linear algebra that can accelerate TensorFlow
 * [**PyTorch**](https://github.com/pytorch/pytorch), tensors and dynamic neural networks in Python with strong GPU acceleration
+* [**TensorFlow**](https://github.com/tensorflow/tensorflow), an open source platform for machine learning
 * [**Nx**](https://github.com/elixir-nx/nx), multidimensional arrays (tensors) and numerical definitions for Elixir
 
 Finally, while compiling all the links for this blog, I came across [A comparison of Futhark and Dex](https://futhark-lang.org/blog/2020-12-28-futhark-and-dex.html) which definitely might be of interest to some of the readers.
