@@ -4,8 +4,6 @@ title: GPU Array Languages, Compiler & Libraries
 categories: [Programming Languages, Array Languages, GPU]
 ---
 
-*This blog post is a draft and will be officially released on October 1, 2022.*
-
 ![image](https://user-images.githubusercontent.com/36027403/193055974-8d8008a2-a1e6-4bd4-8ecc-7624fa611f25.png)
 
 On the most recent episode of [ArrayCast](https://www.arraycast.com/), we interviewed [Troels Henriksen](https://sigkill.dk/) about [the Futhark Programming Language](https://futhark-lang.org/). From the website, "Futhark is a statically typed, data-parallel, and purely functional array language in the ML family, and comes with a heavily optimising ahead-of-time compiler that presently generates either GPU code via CUDA and OpenCL, or multi-threaded CPU code."
