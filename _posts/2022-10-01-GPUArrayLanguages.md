@@ -28,7 +28,7 @@ The following people have been or are actively involved in working on the above 
 
 |Project|Individual*|Twitter|GitHub|ArrayCast?|
 |:-:|:-:|:-:|:-:|:-:|
-|Futhark|[Troels Henriksen](https://sigkill.dk/)|[Twitter](https://twitter.com/sigkill_dk)|[GitHub](https://github.com/Athas/sigkill.dk)|Episode 37|
+|Futhark|[Troels Henriksen](https://sigkill.dk/)|[Twitter](https://twitter.com/sigkill_dk)|[GitHub](https://github.com/Athas/sigkill.dk)|[Episode 37](https://www.arraycast.com/episodes/episode37-futhark)|
 |Co-dfns|[Aaron Hsu](https://www.sacrideo.us/)|-|[GitHub](https://github.com/arcfide)|[Episode 19](https://www.arraycast.com/episodes/episode19-aaron-hsu)|
 |APEX|[Bob Bernecky](https://www.snakeisland.com/)|-|[GitHub](https://github.com/bernecky)|-|
 |SaC|[Sven-Bodo Scholz](https://www.macs.hw.ac.uk/~sbs/homepage/main/Welcome.html)|-|[GitHub](https://github.com/sbscholz)|-|
