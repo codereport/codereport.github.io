@@ -8,6 +8,8 @@ categories: [Programming Languages, Array Languages, GPU]
 
 On the most recent episode of [ArrayCast](https://www.arraycast.com/), we interviewed [Troels Henriksen](https://sigkill.dk/) about [the Futhark Programming Language](https://futhark-lang.org/). From the website, "Futhark is a statically typed, data-parallel, and purely functional array language in the ML family, and comes with a heavily optimising ahead-of-time compiler that presently generates either GPU code via CUDA and OpenCL, or multi-threaded CPU code."
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5dTMsJcZ8W152jCfk7haKS?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 While talking to Troels about accelerating array languages, I asked what other languages and projects operate in the same space. This short blog post is basically highlighting the response we got from Troels.
 
 * 🇩🇰 **[Futhark](https://futhark-lang.org/)**, a Haskell-inspired language out of DIKU at the University of Copenhagen
