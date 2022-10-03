@@ -55,6 +55,8 @@ Some honorable mention projects (some that didn't get mentioned) but are relevan
 * [**TensorFlow**](https://github.com/tensorflow/tensorflow), an open source platform for machine learning
 * [**Nx**](https://github.com/elixir-nx/nx), multidimensional arrays (tensors) and numerical definitions for Elixir
 * [**MLIR**](https://mlir.llvm.org/), a hybrid IR for building compiler infrastructure
+* [**NESL**](http://www.cs.cmu.edu/~scandal/nesl.html), a parallel, functional, array programming language designed at CMU
+* [**Nessie**](http://nessie.cs.uchicago.edu/), a NESL compiler the generates CUDA code for NVIDIA GPUs
 
 Other links of interest that I came across while compiling all the links for this blog are:
 
@@ -64,4 +66,4 @@ Other links of interest that I came across while compiling all the links for thi
 
 The last link was written a few days after the ArrayCast episode aired. Finally, you can find comparisons of different array languages at my [Array Language Comparison GitHub repository](https://github.com/codereport/array-language-comparisons), which is where the graphic at the top of the article is from.
 
-Feel free to leave a comment on the [reddit thread](https://old.reddit.com/r/programming/comments/xsxetm/gpu_array_languages_compiler_libraries/?). 
+Feel free to leave a comment on the [reddit thread](https://old.reddit.com/r/programming/comments/xsxetm/gpu_array_languages_compiler_libraries/?).
