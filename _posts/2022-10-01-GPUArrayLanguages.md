@@ -60,7 +60,8 @@ Other links of interest that I came across while compiling all the links for thi
 
 * [A comparison of Futhark and Dex](https://futhark-lang.org/blog/2020-12-28-futhark-and-dex.html)
 * [Array language compilation in context](https://mlochbaum.github.io/BQN/implementation/compile/intro.html) specifically the section on [Typed Array Languages](https://mlochbaum.github.io/BQN/implementation/compile/intro.html#typed-array-languages)
+* [Futhark on ArrayCast](https://futhark-lang.org/blog/2022-10-03-futhark-on-arraycast.html)
 
-Finally, you can find comparisons of different array languages at my [Array Language Comparison GitHub repository](https://github.com/codereport/array-language-comparisons), which is where the graphic at the top of the article is from.
+The last link was written a few days after the ArrayCast episode aired. Finally, you can find comparisons of different array languages at my [Array Language Comparison GitHub repository](https://github.com/codereport/array-language-comparisons), which is where the graphic at the top of the article is from.
 
 Feel free to leave a comment on the [reddit thread](https://old.reddit.com/r/programming/comments/xsxetm/gpu_array_languages_compiler_libraries/?). 
