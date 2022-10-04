@@ -50,7 +50,7 @@ My plan is to try and have as many of the above folks on ArrayCast in the future
 Some honorable mention projects (some that didn't get mentioned) but are relevant to the space are:
 
 * [**JAX**](https://github.com/google/jax), Autograd and XLA, brought together for high-performance ML research
-* [**XLA**](https://www.tensorflow.org/xla), a domain-specific compiler for linear algebra that can accelerate TensorFlow
+* [**XLA**](https://www.tensorflow.org/xla), a domain-specific compiler for linear algebra that targets CPUs, GPUs and TPUs
 * [**PyTorch**](https://github.com/pytorch/pytorch), tensors and dynamic neural networks in Python with strong GPU acceleration
 * [**TensorFlow**](https://github.com/tensorflow/tensorflow), an open source platform for machine learning
 * [**Nx**](https://github.com/elixir-nx/nx), multidimensional arrays (tensors) and numerical definitions for Elixir
