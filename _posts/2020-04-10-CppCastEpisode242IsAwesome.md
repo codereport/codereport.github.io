@@ -27,13 +27,13 @@ The guest for [Episode 242](https://cppcast.com/nu-programming-languages-jonatha
 
 > I want to be a hobbit too.
 
-Jonathon details his ~15 year history in programming languages. The highlights of the history are:
+Jonathon details their ~15 year history in programming languages. The highlights of the history are:
 
-* Toy programming language he wrote called Pineapple
+* Toy programming language they wrote called Pineapple
 * Work with Jason on [ChaiScript](http://chaiscript.com/)
-* Programming language he wrote called [Minnow](https://github.com/jonathandturner/minnow-language)
+* Programming language they wrote called [Minnow](https://github.com/jonathandturner/minnow-language)
 * Comparison of Minnow to Go
-* Quitting his job to work on Minnow for 1.5 years because he loved it so much
+* Quitting their job to work on Minnow for 1.5 years because he loved it so much
 * Grad school research on programming languages and concepts
 * Work with Chris Lattner and Doug Gregor at **Apple**
 * Work on the inherently parallel programming language [Chapel](https://chapel-lang.org/)
@@ -46,7 +46,7 @@ Hearing about Jonathon's story, career and experience was inspiring, so much so 
 
 ### Flashback from the Past
 
-I listen to about 15 programming / technology podcasts. Without knowing that Jonathon was Jason's brother, I had previously listened to him on [Episode 363](https://changelog.com/podcast/363) of [The Changelog](https://changelog.com/) podcast, one of the other podcasts I listen to. I remember this episode vividly because I love hearing passionate people talking about what they are passionate about - and Jonathon's passion for Nushell is palpable when he speaks. If you want to hear more about Nushell, definitely check this episode out. The episode was so memorable I remember exactly where I was as I listened. I was on W Campbell Ave in the midst of a ~50km bike ride September 8, 2019, four days after the podcast came out. I was living in Silicon Valley at the time. Here is a image of the route I biked:
+I listen to about 15 programming / technology podcasts. Without knowing that Jonathon was Jason's cousin, I had previously listened to them on [Episode 363](https://changelog.com/podcast/363) of [The Changelog](https://changelog.com/) podcast, one of the other podcasts I listen to. I remember this episode vividly because I love hearing passionate people talking about what they are passionate about - and Jonathon's passion for Nushell is palpable when they speak. If you want to hear more about Nushell, definitely check this episode out. The episode was so memorable I remember exactly where I was as I listened. I was on W Campbell Ave in the midst of a ~50km bike ride September 8, 2019, four days after the podcast came out. I was living in Silicon Valley at the time. Here is a image of the route I biked:
 
 ![](/images/bike_ride.PNG){:class="img-responsive"}
 
@@ -63,11 +63,11 @@ It is a panel of four language designers:
 * Rob Pike (co-creator of Go)
 * Niko Matsakis (core developer for Rust)
 
-It is a fantastic panel. Hearing Jonathon mention the conference on this episode reminded me that going back and watching all of the Lang.Next talks was on my list of things to do to. Jonathon also mentioned on the podcast that he has given many talks, and you can find one of them: [TypeScript – Supersetting JavaScript](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/TypeScript-Supersetting-JavaScript/) on Channel 9 from Lang.Next 2014: 
+It is a fantastic panel. Hearing Jonathon mention the conference on this episode reminded me that going back and watching all of the Lang.Next talks was on my list of things to do to. Jonathon also mentioned on the podcast that they have given many talks, and you can find one of them: [TypeScript – Supersetting JavaScript](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/TypeScript-Supersetting-JavaScript/) on Channel 9 from Lang.Next 2014: 
 
 <p align="center"><iframe src="https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/TypeScript-Supersetting-JavaScript/player" width="640" height="360" allowFullScreen frameBorder="0" title="TypeScript – Supersetting JavaScript - Microsoft Channel 9 Video"></iframe></p>
 
-Jonathon also tells an awesome story about himself, Bjarne, Niko and other Rust folks having dinner together at the conference and sharing stories. He reflects that this allowed the Rust development team to internalize some of the lessons that Bjarne shared with them that he learned from creating C++ over the previous decades. So absolutely cool to hear about that. And loved when Jonathon said:
+Jonathon also tells an awesome story about themself, Bjarne, Niko and other Rust folks having dinner together at the conference and sharing stories. They reflect that this allowed the Rust development team to internalize some of the lessons that Bjarne shared with them that he learned from creating C++ over the previous decades. So absolutely cool to hear about that. And loved when Jonathon said:
 
 > And once he [Stroustrup] realizes that we [the Rust team] actually like C++ and that we aren't just hear to dog on C++, we started to have this really awesome conversation about what it was like to design C++ over the years ...
 
