@@ -1,15 +1,19 @@
 ---
 layout: post
-title: NVIDIA GTC 2022 Trip Report
+title: NVIDIA GTC 2023 Trip Report
 categories: [GTC,Trip Report]
 ---
 
-This will be a ~~short~~ "trip report" on the talks I watched over the week of the virtual GTC 2022 (March 21 - 24). All talks are freely available online.
+This will be a ~~short~~ "trip report" on the talks I watched over the week of the virtual GTC 2022 (March 21 - 24). All talks a freely available online.
 
 ### Summary
 
-|Speaker(s)|Talk|
-|:-:|:-:|
+| Speaker(s) |                                                                                                                      Talk                                                                                                                      |
+| :--------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|    CWE     |                                                                               Connect with the Experts: C++ Standard Parallelism and C++ Core Compute Libraries                                                                                |
+|   Jones    |                                              [How to Write a CUDA Program](https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1666205357204001Efly)                                              |
+|   Huang    | [🌟⭐GTC 2023 Keynote with NVIDIA CEO Jensen Huang ![image](https://user-images.githubusercontent.com/36027403/159814936-5d2289c8-5ac5-4c04-b4b2-22b6f8f4b9a9.png)](https://www.youtube.com/watch?v=DiGB5uAYKAg&list=TLGGimr4BQgCJiEyMTAzMjAyMw) |
+
 |Larkin|[⭐ No More Porting: Coding for GPUs with ISO C++, Fortran, and Python](https://reg.rainfocus.com/flow/nvidia/gtcspring2022/aplive/page/ap/session/1637347431411001IRfd)|
 |Jones|[⭐ How CUDA Programming Works](https://reg.rainfocus.com/flow/nvidia/gtcspring2022/aplive/page/ap/session/16372907317160016bDB)|
 |AH & MM|[⛔ Deep Dive into GPU-accelerated Big Data and DS Technologies](https://reg.rainfocus.com/flow/nvidia/gtcspring2022/aplive/page/ap/session/1639159624485001KeMt)|
@@ -30,25 +34,31 @@ This will be a ~~short~~ "trip report" on the talks I watched over the week of t
 
 <br>
 
-||Meaning|
-|:-:|:-:|
-|🌟|Keynote|
-|⭐|Best talks / CWEs|
-|👋|I participated in|
-|⛔|Bad audio / don't watch|
-|![image](https://user-images.githubusercontent.com/36027403/159814936-5d2289c8-5ac5-4c04-b4b2-22b6f8f4b9a9.png)|Available on YouTube|
-|CWE|**C**onnect **W**ith the **E**xperts (Panel Q&A)|
+|                                                                                                                 |                     Meaning                      |
+| :-------------------------------------------------------------------------------------------------------------: | :----------------------------------------------: |
+|                                                        🌟                                                        |                     Keynote                      |
+|                                                        ⭐                                                        |                Best talks / CWEs                 |
+|                                                        👋                                                        |                I participated in                 |
+|                                                        ⛔                                                        |             Bad audio / don't watch              |
+| ![image](https://user-images.githubusercontent.com/36027403/159814936-5d2289c8-5ac5-4c04-b4b2-22b6f8f4b9a9.png) |               Available on YouTube               |
+|                                                       CWE                                                       | **C**onnect **W**ith the **E**xperts (Panel Q&A) |
 
-### [⭐ No More Porting: Coding for GPUs with ISO C++, Fortran, and Python](https://reg.rainfocus.com/flow/nvidia/gtcspring2022/aplive/page/ap/session/1637347431411001IRfd)
+### [Connect with the Experts: C++ Standard Parallelism and C++ Core Compute Libraries \[CWES52064\]](https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1668560305333001cnVU)
 
-#### Speaker: Jeff Larkin
+####: 
 
-This was an awesome talk, one of my favorites of the conference. It shows multiple examples of refactoring code from C++ with OpemMP/OpenACC to Standard C++. The refactoring code is always cleaner, smaller and faster. The talks also gives a couple algorithm tips when refactoring, such as preferring `std::transform_reduce` to `std::trasform` + `std::reduce`.
+### [How to Write a CUDA Program](https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1666205357204001Efly)
 
-![image](https://user-images.githubusercontent.com/36027403/159341504-f1072e7c-80e1-4e0e-af53-b238ee920930.png)
-![image](https://user-images.githubusercontent.com/36027403/159341792-b997229c-8473-44df-ad08-bef982303fbf.png)
-![image](https://user-images.githubusercontent.com/36027403/159342041-f62cdc05-e97a-4819-b650-d19f0001395a.png)
-![image](https://user-images.githubusercontent.com/36027403/159342316-3149aa0d-5571-4273-abe9-20197e51edb0.png)
+#### Speaker: Stephen Jones
+
+This was a great talk, especially if you are new to CUDA. It walks you through a building a simple CUDA program in steps:
+
+1. [Downloading CUDA and the CUDA toolkit](https://developer.nvidia.com/cuda-downloads)
+2. Writing a "hello world" GPU kernel
+3. Determining the number of blocks and threads for your kernel (image below)
+4. Building and 
+
+![image](https://user-images.githubusercontent.com/36027403/226651965-66fc82fd-d13b-413f-a214-26177aa98d71.png)
 
 ### [⭐ How CUDA Programming Works](https://reg.rainfocus.com/flow/nvidia/gtcspring2022/aplive/page/ap/session/16372907317160016bDB)
 
