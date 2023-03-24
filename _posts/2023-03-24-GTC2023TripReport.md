@@ -90,7 +90,7 @@ This was a great talk, especially if you are new to CUDA. It walks you through a
 
 This is a summary of the latest and greatest things in CUDA and the CUDA ecosystem. Highlights include: 
 
-* Overview of cuNumeric and Legate
+* Overview of [cuNumeric](https://developer.nvidia.com/cunumeric) and Legate
 * Overview of CUTLASS 3.0 and CuTe
 * Overview of NVIDIA GPU Computing Tools
 
