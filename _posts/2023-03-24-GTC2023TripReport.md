@@ -4,13 +4,13 @@ title: NVIDIA GTC 2023 Trip Report
 categories: [GTC,Trip Report]
 ---
 
-<br>
-<center><b>🚧 THIS IS A DRAFT BLOG. WILL BE COMPLETED BY ~MARCH 26/27. 🚧</b></center>
-<br>
-
 This will be a short "trip report" on the talks I watched over the week of the virtual GTC 2023 (March 20 - 24). All talks are freely available online. You can read [my GTC trip report from 2022 here](https://codereport.github.io/GTC2022TripReport/).
 
 <!-- ~~short~~ -->
+
+<br>
+<center><b>🚧 THIS IS A DRAFT BLOG. WILL BE COMPLETED BY ~MARCH 26/27. 🚧</b></center>
+<br>
 
 ### Summary (Watched)
 
