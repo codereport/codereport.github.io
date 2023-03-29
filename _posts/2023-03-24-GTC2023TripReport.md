@@ -21,6 +21,7 @@ This will be a short "trip report" on the talks I watched over the week of the v
 | Buck | [Advances in Accelerated Computing for AI & Scientific Computing](https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1670537753408001LtOT)
 | Jones | [⭐ CUDA: New Features and Beyond (2023)](https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1666224659650001N9mU)|
 |Huang & Suskever| [⭐ Fireside Chat with Ilya Sutskever and Jensen Huang: AI Today and Vision of the Future](https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1669748941314001t6Nv)|
+| Lelbach | [C++ Standard Parallelism](https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1666644507044001AzeW)
 
 ### Haven't Watched Yet
 
@@ -28,7 +29,6 @@ This will be a short "trip report" on the talks I watched over the week of the v
 | :--------: | :----------------: |
 |Ramani & Cecka | [Developing Optimal CUDA Kernels on Hopper Tensor Cores](https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1666444617375001kQdj)|
 |Larkin | [No More Porting: GPU Computing with Standard C++ and Fortran](https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1664303378878001WSmB)
-| Lelbach | [C++ Standard Parallelism](https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1666644507044001AzeW)
 | Catanzaro | [Generative AI Demystified](https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1669650476393001DjiP)
 | Harris | [Robust and Efficient CUDA C++ Concurrency with Stream-Ordered Allocation](https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1666653450234001ET29)
 |Lee| [cuNumeric and Legate: How to Create a Distributed GPU Accelerated Library](https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1666647014889001OnJK)
@@ -98,15 +98,13 @@ and much more!
 
 ![image](https://user-images.githubusercontent.com/36027403/226760336-25228af5-4374-4eb3-a9c4-17af5f842019.png)
 
-<!-- ### [⭐ C++ Standard Parallelism](https://youtu.be/1wFtONGVRI8)
+### [C++ Standard Parallelism]()
 
 #### Speaker: [Bryce Adelstein Lelbach](https://twitter.com/blelbach)
 
-Bryce always gives great talks and always has some of the nicest slide decks. I have seen different versions of this talk before but there are a few new things in this talk. If you've watched Jeff's [No More Porting](https://reg.rainfocus.com/flow/nvidia/gtcspring2022/aplive/page/ap/session/1637347431411001IRfd) talk or Tim's [A Deep Dive into the Latest HPC Software](https://reg.rainfocus.com/flow/nvidia/gtcspring2022/aplive/page/ap/session/1637338932019001yA05) you will recognize some of the examples. However, most of the content is totally different and there are tons of awesome modern C++ examples. My favorite example is probably using `std::transform_reduce` to get a word count in parallel.
+This talk is largely the same as Bryce's [GTC 2022 with the same name](https://youtu.be/1wFtONGVRI8). However, it has been updated, as shown by the slide below. ⬇️
 
-For the sake of transparency, I should state that Bryce and I have a [podcast](https://adspthepodcast.com/) together. 
-
-![image](https://user-images.githubusercontent.com/36027403/160429832-f5c53750-9dc9-48cf-b982-49900533cbc0.png) -->
+![image](https://user-images.githubusercontent.com/36027403/228353941-d8663b87-af0c-4a1d-9dfd-c670ceafef2d.png)
 
 ## Hope to See You Next Year!
 
