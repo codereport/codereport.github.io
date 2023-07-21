@@ -28,20 +28,20 @@ On top of this, several other initiatives were mentioned, including:
 
 The following people have been or are actively involved in working on the above projects:
 
-|Project|Individual*|Twitter|GitHub|ArrayCast?|
-|:-:|:-:|:-:|:-:|:-:|
-|Futhark|[Troels Henriksen](https://sigkill.dk/)|[Twitter](https://twitter.com/sigkill_dk)|[GitHub](https://github.com/Athas/sigkill.dk)|[Episode 37](https://www.arraycast.com/episodes/episode37-futhark)|
-|Co-dfns|[Aaron Hsu](https://www.sacrideo.us/)|-|[GitHub](https://github.com/arcfide)|[Episode 19](https://www.arraycast.com/episodes/episode19-aaron-hsu)|
-|APEX|[Bob Bernecky](https://www.snakeisland.com/)|-|[GitHub](https://github.com/bernecky)|-|
-|SaC|[Sven-Bodo Scholz](https://www.macs.hw.ac.uk/~sbs/homepage/main/Welcome.html)|-|[GitHub](https://github.com/sbscholz)|-|
-|SaC|[Artem Shinkarov](https://ashinkarov.github.io/)|-|[GitHub](https://github.com/ashinkarov)|-|
-|Remora|[Justin Slepak](https://jrslepak.github.io/)|-|[GitHub](https://github.com/jrslepak)|-|
-|TAIL/apltail|[Martin Elsman](https://elsman.com/)|-|[GitHub](https://github.com/melsman)|-|
-|Copperhead|[Bryan Catanzaro](https://ctnzr.io/)|[Twitter](https://twitter.com/ctnzr)|[GitHub](https://github.com/bryancatanzaro)|-|
-|Accelerate|[Manuel Chakravarty](https://justtesting.org/)|[Twitter](https://twitter.com/TacticalGrace)|[GitHub](https://github.com/mchakravarty)|-|
-|Accelerate|[Trevor McDonell](https://tmcdonell.github.io/)|-|[GitHub](https://github.com/tmcdonell)|-|
-|Dex/PyTorch|[Adam Paszke](http://apaszke.github.io/)|[Twitter](https://twitter.com/apaszke)|[GitHub](https://github.com/apaszke)|-|
-|Dex|[Dougal Maclaurin](https://dougalmaclaurin.com/index.html)|[Twitter](https://twitter.com/dougalmaclaurin)|[GitHub](https://github.com/dougalm)|-|
+||Project|Individual*|Twitter|GitHub|ArrayCast?|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|✅|Futhark|[Troels Henriksen](https://sigkill.dk/)|[Twitter](https://twitter.com/sigkill_dk)|[GitHub](https://github.com/Athas/sigkill.dk)|[Episode 37](https://www.arraycast.com/episodes/episode37-futhark)|
+|✅|Co-dfns|[Aaron Hsu](https://www.sacrideo.us/)|-|[GitHub](https://github.com/arcfide)|[Episode 19](https://www.arraycast.com/episodes/episode19-aaron-hsu)|
+|✅|APEX|[Bob Bernecky](https://www.snakeisland.com/)|-|[GitHub](https://github.com/bernecky)|[Episode 55](https://www.arraycast.com/episodes/episode55-bob-bernecky)|
+||SaC|[Sven-Bodo Scholz](https://www.macs.hw.ac.uk/~sbs/homepage/main/Welcome.html)|-|[GitHub](https://github.com/sbscholz)|-|
+||SaC|[Artem Shinkarov](https://ashinkarov.github.io/)|-|[GitHub](https://github.com/ashinkarov)|-|
+||Remora|[Justin Slepak](https://jrslepak.github.io/)|-|[GitHub](https://github.com/jrslepak)|-|
+||TAIL/apltail|[Martin Elsman](https://elsman.com/)|-|[GitHub](https://github.com/melsman)|-|
+||Copperhead|[Bryan Catanzaro](https://ctnzr.io/)|[Twitter](https://twitter.com/ctnzr)|[GitHub](https://github.com/bryancatanzaro)|-|
+||Accelerate|[Manuel Chakravarty](https://justtesting.org/)|[Twitter](https://twitter.com/TacticalGrace)|[GitHub](https://github.com/mchakravarty)|-|
+||Accelerate|[Trevor McDonell](https://tmcdonell.github.io/)|-|[GitHub](https://github.com/tmcdonell)|-|
+|✅|Dex/PyTorch|[Adam Paszke](http://apaszke.github.io/)|[Twitter](https://twitter.com/apaszke)|[GitHub](https://github.com/apaszke)|Episode 58|
+||Dex|[Dougal Maclaurin](https://dougalmaclaurin.com/index.html)|[Twitter](https://twitter.com/dougalmaclaurin)|[GitHub](https://github.com/dougalm)|-|
 
 \* Links to personal website
 
