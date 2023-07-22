@@ -40,7 +40,7 @@ The following people have been or are actively involved in working on the above 
 ||Copperhead|[Bryan Catanzaro](https://ctnzr.io/)|[Twitter](https://twitter.com/ctnzr)|[GitHub](https://github.com/bryancatanzaro)|-|
 ||Accelerate|[Manuel Chakravarty](https://justtesting.org/)|[Twitter](https://twitter.com/TacticalGrace)|[GitHub](https://github.com/mchakravarty)|-|
 ||Accelerate|[Trevor McDonell](https://tmcdonell.github.io/)|-|[GitHub](https://github.com/tmcdonell)|-|
-|✅|Dex/PyTorch|[Adam Paszke](http://apaszke.github.io/)|[Twitter](https://twitter.com/apaszke)|[GitHub](https://github.com/apaszke)|Episode 58|
+|✅|Dex/PyTorch|[Adam Paszke](http://apaszke.github.io/)|[Twitter](https://twitter.com/apaszke)|[GitHub](https://github.com/apaszke)|[Episode 58](https://www.arraycast.com/episodes/episode58-adam-paszke)|
 ||Dex|[Dougal Maclaurin](https://dougalmaclaurin.com/index.html)|[Twitter](https://twitter.com/dougalmaclaurin)|[GitHub](https://github.com/dougalm)|-|
 
 \* Links to personal website
