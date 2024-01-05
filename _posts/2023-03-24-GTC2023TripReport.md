@@ -6,64 +6,29 @@ categories: [GTC,Trip Report]
 
 This will be a short "trip report" on the talks I watched over the week of the virtual GTC 2023 (March 20 - 24). All talks are freely available online. You can read [my GTC trip report from 2022 here](https://codereport.github.io/GTC2022TripReport/).
 
-<!-- ~~short~~ -->
-
-<br>
-<center><b>🚧 THIS IS A DRAFT BLOG. WILL BE COMPLETED BY ~MARCH 26/27. 🚧</b></center>
 <br>
 
 ### Summary (Watched)
 
-| Speaker(s) |        Talk        |
-| :--------: | :----------------: |
-|   Huang    |[🌟⭐GTC 2023 Keynote with NVIDIA CEO Jensen Huang ![image](https://user-images.githubusercontent.com/36027403/159814936-5d2289c8-5ac5-4c04-b4b2-22b6f8f4b9a9.png)](https://www.youtube.com/watch?v=DiGB5uAYKAg)|
-|   Jones    |[⭐ How to Write a CUDA Program](https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1666205357204001Efly)|
-| Buck | [Advances in Accelerated Computing for AI & Scientific Computing](https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1670537753408001LtOT)
-| Jones | [⭐ CUDA: New Features and Beyond (2023)](https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1666224659650001N9mU)|
-|Huang & Suskever| [⭐ Fireside Chat with Ilya Sutskever and Jensen Huang: AI Today and Vision of the Future](https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1669748941314001t6Nv)|
-| Lelbach | [C++ Standard Parallelism](https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1666644507044001AzeW)
-
-### Haven't Watched Yet
-
-| Speaker(s) |        Talk        |
-| :--------: | :----------------: |
-|Ramani & Cecka | [Developing Optimal CUDA Kernels on Hopper Tensor Cores](https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1666444617375001kQdj)|
-|Larkin | [No More Porting: GPU Computing with Standard C++ and Fortran](https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1664303378878001WSmB)
-| Catanzaro | [Generative AI Demystified](https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1669650476393001DjiP)
-| Harris | [Robust and Efficient CUDA C++ Concurrency with Stream-Ordered Allocation](https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1666653450234001ET29)
-|Lee| [cuNumeric and Legate: How to Create a Distributed GPU Accelerated Library](https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1666647014889001OnJK)
-
-<!-- |Larkin|[⭐ No More Porting: Coding for GPUs with ISO C++, Fortran, and Python](https://reg.rainfocus.com/flow/nvidia/gtcspring2022/aplive/page/ap/session/1637347431411001IRfd)|
-|Jones|[⭐ How CUDA Programming Works](https://reg.rainfocus.com/flow/nvidia/gtcspring2022/aplive/page/ap/session/16372907317160016bDB)|
-|AH & MM|[⛔ Deep Dive into GPU-accelerated Big Data and DS Technologies](https://reg.rainfocus.com/flow/nvidia/gtcspring2022/aplive/page/ap/session/1639159624485001KeMt)|
-|Huang|[🌟⭐ GTC 2022 Keynote with NVIDIA CEO Jensen Huang ![image](https://user-images.githubusercontent.com/36027403/159814936-5d2289c8-5ac5-4c04-b4b2-22b6f8f4b9a9.png)](https://www.youtube.com/watch?v=39ubNuxnrK8)|
-|Costa|[⭐ A Deep Dive into the Latest HPC Software](https://reg.rainfocus.com/flow/nvidia/gtcspring2022/aplive/page/ap/session/1637338932019001yA05)|
-|GP & MA|[Inside the NVIDIA Hopper Architecture](https://www.nvidia.com/gtc/session-catalog/?search=Hopper&tab.scheduledorondemand=1583520458947001NJiE&search=Hopper#/session/1644354440262001BZNv)|
-|Jones|[⭐ CUDA: New Features and Beyond](https://reg.rainfocus.com/flow/nvidia/gtcspring2022/aplive/page/ap/session/1637286764806001dtJj)|
-|Lelbach|[⭐ C++ Standard Parallelism ![image](https://user-images.githubusercontent.com/36027403/159814936-5d2289c8-5ac5-4c04-b4b2-22b6f8f4b9a9.png)](https://youtu.be/1wFtONGVRI8)|
-|GT & VM|[⛔ Optimizing CUDA Applications for NVIDIA Hopper Architecture](https://reg.rainfocus.com/flow/nvidia/gtcspring2022/aplive/page/ap/session/16373134932300012k2M)|
-|MC & NG|[Accelerating PyTorch with Native CUDA Graphs Support](https://events.rainfocus.com/widget/nvidia/gtcspring2022/sessioncatalog/session/1638833046344001X1tZ)|
-|Enemark|[⭐ Scaling Web and Visualization Apps with GPUs](https://reg.rainfocus.com/flow/nvidia/gtcspring2022/aplive/page/ap/session/1639779978640001b7km)|
-|MA, AD, NB|[Large-scale Machine Learning with Snowflake and RAPIDS](https://reg.rainfocus.com/flow/nvidia/gtcspring2022/aplive/page/ap/session/16385568434230010NKr)|
-|Hammond|[⭐ Shifting through the Gears of GPU Programming](https://reg.rainfocus.com/flow/nvidia/gtcspring2022/aplive/page/ap/session/1638453336105001vPx8)|
-|CWE|[⭐ Standard and CUDA C++ User Forum](https://reg.rainfocus.com/flow/nvidia/gtcspring2022/aplive/page/ap/session/1638815023541001evyQ)
-|CWE|[👋 Thrust, CUB, and libcu++ User Forum](https://www.nvidia.com/gtc/session-catalog/?search=CWE41948)
-|CWE|[NVCC CUDA Compiler Toolchain](https://reg.rainfocus.com/flow/nvidia/gtcspring2022/aplive/page/ap/session/1638579379537001IMpK)|
-|Panel|[⭐ Future of Standard and CUDA C++](https://reg.rainfocus.com/flow/nvidia/gtcspring2022/aplive/page/ap/session/1638830085320001YWIE)| -->
+|    Speaker(s)    |                                                                                                       Talk                                                                                                       |
+| :--------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|      Huang       |  [🌟⭐GTC 2023 Keynote with NVIDIA CEO Jensen Huang ![image](https://user-images.githubusercontent.com/36027403/159814936-5d2289c8-5ac5-4c04-b4b2-22b6f8f4b9a9.png)](https://www.youtube.com/watch?v=DiGB5uAYKAg)  |
+|      Jones       |                              [⭐ How to Write a CUDA Program](https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1666205357204001Efly)                              |
+|       Buck       |             [Advances in Accelerated Computing for AI & Scientific Computing](https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1670537753408001LtOT)             |
+|      Jones       |                         [⭐ CUDA: New Features and Beyond (2023)](https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1666224659650001N9mU)                          |
+| Huang & Suskever | [⭐ Fireside Chat with Ilya Sutskever and Jensen Huang: AI Today and Vision of the Future](https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1669748941314001t6Nv) |
+|     Lelbach      |                                [C++ Standard Parallelism](https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1666644507044001AzeW)                                 |
 
 <br>
 
-||Meaning|
-|:-:|:-:|
-|🌟|Keynote|
-|⭐|Best talks / CWEs|
-|![image](https://user-images.githubusercontent.com/36027403/159814936-5d2289c8-5ac5-4c04-b4b2-22b6f8f4b9a9.png)|Available on YouTube|
-
-<!-- |⛔|Bad audio / don't watch| -->
-<!-- |CWE|**C**onnect **W**ith the **E**xperts (Panel Q&A)| -->
+|                                                                                                                 |       Meaning        |
+| :-------------------------------------------------------------------------------------------------------------: | :------------------: |
+|                                                        🌟                                                        |       Keynote        |
+|                                                        ⭐                                                        |      Best talks      |
+| ![image](https://user-images.githubusercontent.com/36027403/159814936-5d2289c8-5ac5-4c04-b4b2-22b6f8f4b9a9.png) | Available on YouTube |
 
 
-### [GTC Keynote]()
+### [GTC Keynote](https://www.youtube.com/watch?v=DiGB5uAYKAg)
 
 #### Speaker: Jensen Huang, CEO of NVIDIA
 
@@ -98,7 +63,7 @@ and much more!
 
 ![image](https://user-images.githubusercontent.com/36027403/226760336-25228af5-4374-4eb3-a9c4-17af5f842019.png)
 
-### [C++ Standard Parallelism]()
+### [C++ Standard Parallelism](https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1666644507044001AzeW)
 
 #### Speaker: [Bryce Adelstein Lelbach](https://twitter.com/blelbach)
 
