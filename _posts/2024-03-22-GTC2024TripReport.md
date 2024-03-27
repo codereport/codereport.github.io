@@ -21,7 +21,7 @@ This will be a short "trip report" on the talks I watched over the week of the G
 |   Lattner   |            [Unlocking Developer Productivity across CPU and GPU with Mojo](https://register.nvidia.com/flow/nvidia/gtcs24/attendeeportaldigital/page/sessioncatalog/session/1695673381291001GYwP)             |
 | Catanzaro ✅ |                           [🔥 David Luan & Bryan Catanzaro²](https://register.nvidia.com/flow/nvidia/gtcs24/attendeeportaldigital/page/sessioncatalog/session/1706747368510001RGVh)                            |
 |   Hemstad   |                                 [Mastering CUDA C++³](https://register.nvidia.com/flow/nvidia/gtcs24/attendeeportaldigital/page/sessioncatalog/session/1695315322330001eIye)                                  |
-|   Johnson   |                                  [What's New in JAX](https://register.nvidia.com/flow/nvidia/gtcs24/attendeeportaldigital/page/sessioncatalog/session/1696886819345001AqHd)                                   |
+|  Bastien ✅  |                                  [What's New in JAX](https://register.nvidia.com/flow/nvidia/gtcs24/attendeeportaldigital/page/sessioncatalog/session/1696886819345001AqHd)                                   |
 |   Shoham    |                            [🔥 Yoav Shoham & Vartika Singh⁴](https://register.nvidia.com/flow/nvidia/gtcs24/attendeeportaldigital/page/sessioncatalog/session/1709084371927001buHn)                            |
 
 * 1 - The High-Speed Revolution in AI and Managing the Impact on Humanity
@@ -44,6 +44,10 @@ This will be a short "trip report" on the talks I watched over the week of the G
 |                                                        🌟                                                        |       Keynote        |
 |                                                        🔥                                                        |    Fireside Chat     |
 | ![image](https://user-images.githubusercontent.com/36027403/159814936-5d2289c8-5ac5-4c04-b4b2-22b6f8f4b9a9.png) | Available on YouTube |
+
+### Screenshot from "What's New in JAX?"
+
+![image](https://github.com/codereport/jello/assets/36027403/41dbfd97-0148-49e1-882f-691f58ab43fa)
 
 <!-- 
 
