@@ -22,7 +22,7 @@ This will be a short "trip report" on the talks I watched over the week of the G
 | Catanzaro ✅ |                           [🔥 David Luan & Bryan Catanzaro²](https://register.nvidia.com/flow/nvidia/gtcs24/attendeeportaldigital/page/sessioncatalog/session/1706747368510001RGVh)                            |
 |   Hemstad   |                                 [Mastering CUDA C++³](https://register.nvidia.com/flow/nvidia/gtcs24/attendeeportaldigital/page/sessioncatalog/session/1695315322330001eIye)                                  |
 |  Bastien ✅  |                                  [What's New in JAX](https://register.nvidia.com/flow/nvidia/gtcs24/attendeeportaldigital/page/sessioncatalog/session/1696886819345001AqHd)                                   |
-|   Shoham    |                            [🔥 Yoav Shoham & Vartika Singh⁴](https://register.nvidia.com/flow/nvidia/gtcs24/attendeeportaldigital/page/sessioncatalog/session/1709084371927001buHn)                            |
+|  Shoham ✅   |                            [🔥 Yoav Shoham & Vartika Singh⁴](https://register.nvidia.com/flow/nvidia/gtcs24/attendeeportaldigital/page/sessioncatalog/session/1709084371927001buHn)                            |
 
 * 1 - The High-Speed Revolution in AI and Managing the Impact on Humanity
 * 2 - The Future of AI and the Path to AGI
