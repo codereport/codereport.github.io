@@ -15,6 +15,7 @@ This will be a short "trip report" of the talks I watched over the week of the G
 | Speaker(s) |                                                                                                     Talk                                                                                                      |
 | :--------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  Huang  ✅  | [🌟GTC 2025 Keynote with NVIDIA CEO Jensen Huang ![image](https://user-images.githubusercontent.com/36027403/159814936-5d2289c8-5ac5-4c04-b4b2-22b6f8f4b9a9.png)](https://www.youtube.com/watch?v=_waPvOwL9Z8) |
+
 <!--
 |         |                                                                                                                                                                                                               | Li ✅ | 🔥 [Fei-Fei Li and Bill Dally¹](https://register.nvidia.com/flow/nvidia/gtcs24/attendeeportaldigital/page/sessioncatalog/session/1690423197613001jzhz) |
 |   Jones ✅   |                            [CUDA: New Features and Beyond](https://register.nvidia.com/flow/nvidia/gtcs24/attendeeportaldigital/page/sessioncatalog/session/1696033648682001S1DC)                             |
