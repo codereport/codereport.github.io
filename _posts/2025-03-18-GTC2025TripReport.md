@@ -18,6 +18,7 @@ This will be a short "trip report" of the talks I watched over the week of the G
 | Bhat, Tanner & Terrel ✅ |                            [Accelerated Python: The Community and Ecosystem](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727176757800001qp7T)                             |
 
 <br>
+
 |                                                                                                                 |       Meaning        |
 | :-------------------------------------------------------------------------------------------------------------: | :------------------: |
 |                                                        🌟                                                        |       Keynote        |
