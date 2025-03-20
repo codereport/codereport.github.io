@@ -17,6 +17,7 @@ This will be a short "trip report" of the talks I watched over the week of the G
 |        Huang  ✅         | [🌟⭐GTC 2025 Keynote with NVIDIA CEO Jensen Huang ![image](https://user-images.githubusercontent.com/36027403/159814936-5d2289c8-5ac5-4c04-b4b2-22b6f8f4b9a9.png)](https://www.youtube.com/watch?v=_waPvOwL9Z8) |
 | Bhat, Tanner & Terrel ✅ |                            [Accelerated Python: The Community and Ecosystem](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727176757800001qp7T)                             |
 
+<br>
 |                                                                                                                 |       Meaning        |
 | :-------------------------------------------------------------------------------------------------------------: | :------------------: |
 |                                                        🌟                                                        |       Keynote        |
