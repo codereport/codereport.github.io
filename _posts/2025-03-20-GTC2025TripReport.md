@@ -21,6 +21,8 @@ This will be a short "trip report" of the talks I watched over the week of the G
 |  Armstrong  |                                     [What's CUDA All About Anyway? ](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727452240578001KWZG)                                     |
 |   Lelbach   |                                   [⭐ The CUDA C++ Developer’s Toolbox](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727452471839001RhBW)                                   |
 
+Other talks to be added.
+
 <br>
 
 |                                                                                                                 |       Meaning        |
@@ -32,8 +34,20 @@ This will be a short "trip report" of the talks I watched over the week of the G
 
 ### Highlights and Thoughts
 
-#### Accelerated Python: The Community and Ecosystem [S72450]
+#### Accelerated Python: The Community and Ecosystem
 
 This talk covers Python initiatives at NVIDIA. Pretty crazy to think that the first decade of GPU Python initiatives all started outside of NVIDIA.
 
 ![Screenshot from 2025-03-19 15-06-45](https://github.com/user-attachments/assets/cad15527-748a-4754-84c1-7db6acbad252)
+
+#### The CUDA C++ Developer’s Toolbox
+
+Screenshots from Bryce's talk.
+
+![Screenshot from 2025-03-20 02-06-12](https://github.com/user-attachments/assets/4447d82a-5969-465c-bf37-434c5b340c70)
+![Screenshot from 2025-03-20 02-07-19](https://github.com/user-attachments/assets/77faf64c-c628-4940-b74a-60f626f94bfe)
+![Screenshot from 2025-03-20 02-08-48](https://github.com/user-attachments/assets/d523231a-6b03-4171-abb1-a4457791ea15)
+![Screenshot from 2025-03-20 02-12-57](https://github.com/user-attachments/assets/78680651-88a5-42d4-999b-28027e0fe47e)
+![Screenshot from 2025-03-20 02-22-46](https://github.com/user-attachments/assets/699f41a5-3e58-4749-88c1-3bba47ca839b)\
+
+TODO finish
