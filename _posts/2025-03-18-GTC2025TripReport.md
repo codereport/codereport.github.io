@@ -4,6 +4,8 @@ title: NVIDIA GTC 2025 Trip Report
 categories: [GTC,Trip Report]
 ---
 
+**🚧 This post is under construction 🚧**
+
 This will be a short "trip report" of the talks I watched over the week of the GTC 2025 (March 18 - 21). All talks are freely available online. You can read previous GTC trip reports here:
 
 * [2024 GTC trip report](https://codereport.github.io/GTC2024TripReport/)
