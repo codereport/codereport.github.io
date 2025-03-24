@@ -18,8 +18,8 @@ This will be a short "trip report" of the talks I watched over the week of the G
 | :---------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |    Huang    | [🌟⭐GTC 2025 Keynote with NVIDIA CEO Jensen Huang ![image](https://user-images.githubusercontent.com/36027403/159814936-5d2289c8-5ac5-4c04-b4b2-22b6f8f4b9a9.png)](https://www.youtube.com/watch?v=_waPvOwL9Z8) |
 | Bhat et al. |                            [Accelerated Python: The Community and Ecosystem](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727176757800001qp7T)                             |
-|  Armstrong  |                                     [What's CUDA All About Anyway? ](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727452240578001KWZG)                                     |
 |   Lelbach   |                                   [⭐ The CUDA C++ Developer’s Toolbox](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727452471839001RhBW)                                   |
+|  Armstrong  |                                     [What's CUDA All About Anyway? ](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727452240578001KWZG)                                     |
 
 Other talks to be added.
 
@@ -33,6 +33,16 @@ Other talks to be added.
 | ![image](https://user-images.githubusercontent.com/36027403/159814936-5d2289c8-5ac5-4c04-b4b2-22b6f8f4b9a9.png) | Available on YouTube |
 
 ### Highlights and Thoughts
+
+#### Jensen's Keynote
+
+I tweet this while recording ADSP Episodes 226-228.
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:iyuh5mhvphwyxordfys7nth4/app.bsky.feed.post/3lksx3onrz22q" data-bluesky-cid="bafyreihpofnlan7jkfx3ataphmcknjclngipvodibklzomtfwg5g3a66zq" data-bluesky-embed-color-mode="system"><p lang="en">Jensen vs Bryce<br><br><a href="https://bsky.app/profile/did:plc:iyuh5mhvphwyxordfys7nth4/post/3lksx3onrz22q?ref_src=embed">[image or embed]</a></p>&mdash; Conor Hoekstra (<a href="https://bsky.app/profile/did:plc:iyuh5mhvphwyxordfys7nth4?ref_src=embed">@codereport.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:iyuh5mhvphwyxordfys7nth4/post/3lksx3onrz22q?ref_src=embed">March 20, 2025 at 10:50 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+Here is the standalone slide from Jensen's deck.
+
+![image](https://github.com/user-attachments/assets/7644e99f-4682-4704-9349-aa55c6f1adc9)
 
 #### Accelerated Python: The Community and Ecosystem
 
@@ -50,4 +60,8 @@ Screenshots from Bryce's talk.
 ![Screenshot from 2025-03-20 02-12-57](https://github.com/user-attachments/assets/78680651-88a5-42d4-999b-28027e0fe47e)
 ![Screenshot from 2025-03-20 02-22-46](https://github.com/user-attachments/assets/699f41a5-3e58-4749-88c1-3bba47ca839b)
 
-TODO finish
+#### What's CUDA All About Anyway?
+
+This image is similar to the 2nd screenshot from Bryce's talk above. Rob also notes that Stephen has a slide in his talk covering the same thing. So 3 different slides for the same ecosystem (4 if you include Jensen's slide).
+
+![image](https://github.com/user-attachments/assets/fc05a9a5-4336-4c2e-be0a-4120f81f5d25)
