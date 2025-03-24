@@ -21,6 +21,8 @@ This will be a short "trip report" of the talks I watched over the week of the G
 |   Lelbach   |                                   [⭐ The CUDA C++ Developer’s Toolbox](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727452471839001RhBW)                                   |
 |  Armstrong  |                                     [What's CUDA All About Anyway? ](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727452240578001KWZG)                                     |
 | Jones | [⭐ CUDA: New Features and Beyond](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1726614035480001yvEQ) |
+| Goel et al. | [Horizontal Scaling of LLM Training with JAX](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1728073363553001mzFs) |
+| Tillet & Miller | [Blackwell Programming for the Masses With OpenAI Triton](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727899732188001d9Fa) | 
 
 Other talks to be added.
 
@@ -85,3 +87,9 @@ And a slightly different graphic for kernel authoring:
 
 ![image](https://github.com/user-attachments/assets/dbb39424-7f71-4227-af9f-2a3bc24b38d8)
 
+#### [Blackwell Programming for the Masses With OpenAI Triton](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727899732188001d9Fa)
+##### Speakers: Phil Tillet & dePaul Miller
+
+An interesting graphic showing where OpenAI Triton sits between PyTorch and CUDA C++ for authoring kernels.
+
+![image](https://github.com/user-attachments/assets/23a03a78-2111-4020-ba32-9b1c6369f8f6)
