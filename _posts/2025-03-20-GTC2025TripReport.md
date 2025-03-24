@@ -20,6 +20,7 @@ This will be a short "trip report" of the talks I watched over the week of the G
 | Bhat et al. |                            [Accelerated Python: The Community and Ecosystem](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727176757800001qp7T)                             |
 |   Lelbach   |                                   [⭐ The CUDA C++ Developer’s Toolbox](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727452471839001RhBW)                                   |
 |  Armstrong  |                                     [What's CUDA All About Anyway? ](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727452240578001KWZG)                                     |
+| Jones | [⭐ CUDA: New Features and Beyond](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1726614035480001yvEQ) |
 
 Other talks to be added.
 
@@ -44,13 +45,15 @@ Here is the standalone slide from Jensen's deck.
 
 ![image](https://github.com/user-attachments/assets/7644e99f-4682-4704-9349-aa55c6f1adc9)
 
-#### Accelerated Python: The Community and Ecosystem
+#### [Accelerated Python: The Community and Ecosystem](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727176757800001qp7T)
+##### Speakers: Anshuman Bhat, Jeremy Tanner, Andy Terrel
 
 This talk covers Python initiatives at NVIDIA. Pretty crazy to think that the first decade of GPU Python initiatives all started outside of NVIDIA.
 
 ![Screenshot from 2025-03-19 15-06-45](https://github.com/user-attachments/assets/cad15527-748a-4754-84c1-7db6acbad252)
 
-#### The CUDA C++ Developer’s Toolbox
+#### [The CUDA C++ Developer’s Toolbox](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727452471839001RhBW)
+##### Speaker: Bryce Adelstein Lelbach
 
 Screenshots from Bryce's talk.
 
@@ -60,8 +63,25 @@ Screenshots from Bryce's talk.
 ![Screenshot from 2025-03-20 02-12-57](https://github.com/user-attachments/assets/78680651-88a5-42d4-999b-28027e0fe47e)
 ![Screenshot from 2025-03-20 02-22-46](https://github.com/user-attachments/assets/699f41a5-3e58-4749-88c1-3bba47ca839b)
 
-#### What's CUDA All About Anyway?
+#### [What's CUDA All About Anyway?](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727452240578001KWZG)
+##### Speaker: Rob Armstrong
 
 This image is similar to the 2nd screenshot from Bryce's talk above. Rob also notes that Stephen has a slide in his talk covering the same thing. So 3 different slides for the same ecosystem (4 if you include Jensen's slide).
 
 ![image](https://github.com/user-attachments/assets/fc05a9a5-4336-4c2e-be0a-4120f81f5d25)
+
+#### [CUDA: New Features and Beyond](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1726614035480001yvEQ)
+##### Speaker: Stephen Jones
+
+This seems to be the slide that Rob (Armstrong) referred to.
+
+![image](https://github.com/user-attachments/assets/04c3d60b-2121-4373-b4a0-7bcf45c1f4b6)
+
+And a Python version of this graphic:
+
+![image](https://github.com/user-attachments/assets/23fc4e90-5700-4c0d-9cf5-9c7584e5dbba)
+
+And a slightly different graphic for kernel authoring:
+
+![image](https://github.com/user-attachments/assets/dbb39424-7f71-4227-af9f-2a3bc24b38d8)
+
