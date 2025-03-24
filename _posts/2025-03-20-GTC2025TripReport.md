@@ -44,10 +44,10 @@ This talk covers Python initiatives at NVIDIA. Pretty crazy to think that the fi
 
 Screenshots from Bryce's talk.
 
-![Screenshot from 2025-03-20 02-06-12](https://github.com/user-attachments/assets/4447d82a-5969-465c-bf37-434c5b340c70)
+![image](https://github.com/user-attachments/assets/5ba83609-c718-4f9f-9a9a-018c0482c23f)
 ![Screenshot from 2025-03-20 02-07-19](https://github.com/user-attachments/assets/77faf64c-c628-4940-b74a-60f626f94bfe)
 ![Screenshot from 2025-03-20 02-08-48](https://github.com/user-attachments/assets/d523231a-6b03-4171-abb1-a4457791ea15)
 ![Screenshot from 2025-03-20 02-12-57](https://github.com/user-attachments/assets/78680651-88a5-42d4-999b-28027e0fe47e)
-![Screenshot from 2025-03-20 02-22-46](https://github.com/user-attachments/assets/699f41a5-3e58-4749-88c1-3bba47ca839b)\
+![Screenshot from 2025-03-20 02-22-46](https://github.com/user-attachments/assets/699f41a5-3e58-4749-88c1-3bba47ca839b)
 
 TODO finish
