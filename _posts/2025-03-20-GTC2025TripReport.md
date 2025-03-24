@@ -26,7 +26,7 @@ This will be a short "trip report" of the talks I watched over the week of the G
 
 Other talks to be added.
 
-**Legend:** 🌟 - Keynote | ⭐ - Best talks | ![image](https://user-images.githubusercontent.com/36027403/159814936-5d2289c8-5ac5-4c04-b4b2-22b6f8f4b9a9.png) - Available on YouTube
+**Legend** | 🌟 - Keynote | ⭐ - Best talks | ![image](https://user-images.githubusercontent.com/36027403/159814936-5d2289c8-5ac5-4c04-b4b2-22b6f8f4b9a9.png) - Available on YouTube
 
 ### Highlights and Thoughts
 
