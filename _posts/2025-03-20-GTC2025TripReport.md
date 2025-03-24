@@ -36,7 +36,7 @@ Other talks to be added.
 
 #### Jensen's Keynote
 
-I tweet this while recording ADSP Episodes 226-228.
+I tweeted this while recording ADSP Episodes 226-228.
 
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:iyuh5mhvphwyxordfys7nth4/app.bsky.feed.post/3lksx3onrz22q" data-bluesky-cid="bafyreihpofnlan7jkfx3ataphmcknjclngipvodibklzomtfwg5g3a66zq" data-bluesky-embed-color-mode="system"><p lang="en">Jensen vs Bryce<br><br><a href="https://bsky.app/profile/did:plc:iyuh5mhvphwyxordfys7nth4/post/3lksx3onrz22q?ref_src=embed">[image or embed]</a></p>&mdash; Conor Hoekstra (<a href="https://bsky.app/profile/did:plc:iyuh5mhvphwyxordfys7nth4?ref_src=embed">@codereport.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:iyuh5mhvphwyxordfys7nth4/post/3lksx3onrz22q?ref_src=embed">March 20, 2025 at 10:50 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
