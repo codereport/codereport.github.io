@@ -14,15 +14,17 @@ This will be a short "trip report" of the talks I watched over the week of the G
 
 ### Summary
 
-| Speaker(s)  |                                                                                                      Talk                                                                                                      |
-| :---------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|    Huang    | [🌟⭐GTC 2025 Keynote with NVIDIA CEO Jensen Huang ![image](https://user-images.githubusercontent.com/36027403/159814936-5d2289c8-5ac5-4c04-b4b2-22b6f8f4b9a9.png)](https://www.youtube.com/watch?v=_waPvOwL9Z8) |
-| Bhat et al. |                            [Accelerated Python: The Community and Ecosystem](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727176757800001qp7T)                             |
-|   Lelbach   |                                   [⭐ The CUDA C++ Developer’s Toolbox](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727452471839001RhBW)                                   |
-|  Armstrong  |                                     [What's CUDA All About Anyway? ](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727452240578001KWZG)                                     |
-| Jones | [⭐ CUDA: New Features and Beyond](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1726614035480001yvEQ) |
-| Goel et al. | [Horizontal Scaling of LLM Training with JAX](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1728073363553001mzFs) |
-| Tillet & Miller | [Blackwell Programming for the Masses With OpenAI Triton](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727899732188001d9Fa) | 
+|   Speaker(s)    |                                                                                                      Talk                                                                                                      |
+| :-------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|      Huang      | [🌟⭐GTC 2025 Keynote with NVIDIA CEO Jensen Huang ![image](https://user-images.githubusercontent.com/36027403/159814936-5d2289c8-5ac5-4c04-b4b2-22b6f8f4b9a9.png)](https://www.youtube.com/watch?v=_waPvOwL9Z8) |
+|   Bhat et al.   |                            [Accelerated Python: The Community and Ecosystem](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727176757800001qp7T)                             |
+|     Lelbach     |                                   [⭐ The CUDA C++ Developer’s Toolbox](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727452471839001RhBW)                                   |
+|    Armstrong    |                                     [What's CUDA All About Anyway? ](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727452240578001KWZG)                                     |
+|      Jones      |                                    [⭐ CUDA: New Features and Beyond](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1726614035480001yvEQ)                                     |
+|   Goel et al.   |                              [Horizontal Scaling of LLM Training with JAX](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1728073363553001mzFs)                               |
+| Tillet & Miller |                        [Blackwell Programming for the Masses With OpenAI Triton](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727899732188001d9Fa)                         |
+|      Riehl      |                                  [The CUDA Python Developer’s Toolbox](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727174376274001QQQl)                                   |
+|      Fang       |                              [⭐ 1,001 Ways to Write CUDA Kernels in Python](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727175449007001EIKh)                              |
 
 Other talks to be added.
 
