@@ -25,6 +25,7 @@ This will be a short "trip report" of the talks I watched over the week of the G
 | Tillet & Miller |                        [Blackwell Programming for the Masses With OpenAI Triton](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727899732188001d9Fa)                         |
 |      Riehl      |                                  [The CUDA Python Developer’s Toolbox](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727174376274001QQQl)                                   |
 |      Fang       |                              [⭐ 1,001 Ways to Write CUDA Kernels in Python](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727175449007001EIKh)                              |
+|   Evtushenko    |                                [⭐ How You Should Write a CUDA C++ Kernel](https://register.nvidia.com/flow/nvidia/gtcs25/vap/page/vsessioncatalog/session/1727453154835001sGzr)                                |
 
 Other talks to be added.
 
@@ -88,3 +89,8 @@ And a slightly different graphic for kernel authoring:
 An interesting graphic showing where OpenAI Triton sits between PyTorch and CUDA C++ for authoring kernels.
 
 ![image](https://github.com/user-attachments/assets/23a03a78-2111-4020-ba32-9b1c6369f8f6)
+
+#### How You Should Write a CUDA C++ Kernel
+##### Speakers: Georgii Evtushenko
+
+This is a fantastic talk. Walks you through how to handroll your own `transform` kernel using `nvbench` while comparing it to speed of light `thrust::transform`. A must watch.
