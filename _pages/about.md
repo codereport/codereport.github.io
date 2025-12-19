@@ -8,4 +8,4 @@ The `code_report` Blog is a blog focused on programming languages, algorithms an
 
 **About Conor (aka `code_report`)**
  
-Conor's bio and link tree can be found [here](https://codereport.github.io/vibing/linktree/index.html).
+Conor's bio and link tree can be found [here](https://conorshakory.com/).
