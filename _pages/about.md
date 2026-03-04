@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-The code report is focues on programming languages, algorithms and other software related topics. 
+The code report focuses on programming languages, algorithms and other software related topics. 
 
 **About Conor (aka code_report)**
  
