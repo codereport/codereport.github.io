@@ -7,8 +7,9 @@ title: Categories
 
 <div id="archives">
 {% for category in site.categories %}
+  {% assign category_name = category | first %}
+  {% unless category_name == "Trip Report" %}
   <div class="archive-group">
-    {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
     
@@ -20,5 +21,6 @@ title: Categories
     </article>
     {% endfor %}
   </div>
+  {% endunless %}
 {% endfor %}
 </div>

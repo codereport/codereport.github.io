@@ -13,8 +13,6 @@
 /* BASE RULES */
 /**************/
 
-@import url('https://fonts.googleapis.com/css?family=Roboto');
-
 html {
   font-size: 100%;
   height: 100%;
@@ -22,7 +20,7 @@ html {
 
 body {
   background: #fff;
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: $libertine;
   color: #404040;
   line-height: 1.7;
   font-weight: 400;
@@ -38,7 +36,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: $libertine;
   color: $darkerGray;
   font-weight: bold;
 
@@ -269,38 +267,39 @@ p > img {
 }
 
 .masthead {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
+    flex-direction: column;
     text-align: center;
+    gap: 10px;
+  }
+}
+
+.masthead-left {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+
+  @include mobile {
+    flex-direction: column;
+    gap: 8px;
   }
 }
 
 .site-avatar {
-  float: left;
-  width: 70px;
-  height: 70px;
-  margin-right: 15px;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
+  width: 50px;
+  height: 50px;
+  flex-shrink: 0;
 
   img {
     border-radius: 5px;
-  }
-}
-
-.site-info {
-  float: left;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
+    width: 100%;
+    height: 100%;
   }
 }
 
@@ -308,46 +307,27 @@ p > img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $libertine;
   font-weight: 300;
-  font-size: 28px;
-  letter-spacing: 1px;
-  text-align: left;
-
-  @include mobile {
-    text-align: center;
-  }
-}
-
-.site-description {
-  margin: -5px 0 0 0;
-  color: $gray;
-  font-size: 16px;
-
-  @include mobile {
-    margin: 3px 0;
-  }
+  font-size: 24px;
+  white-space: nowrap;
 }
 
 nav {
-  float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  display: flex;
+  align-items: center;
+  font-family: $libertine;
   font-size: 18px;
 
   @include mobile {
-    float: none;
-    margin-top: 9px;
-    display: block;
     font-size: 16px;
   }
 
   a {
     margin-left: 20px;
     color: $darkGray;
-    text-align: right;
     font-weight: 300;
-    letter-spacing: 1px;
+    white-space: nowrap;
 
     @include mobile {
       margin: 0 10px;
@@ -402,20 +382,17 @@ nav {
 }
 
 .wrapper-container {
-  min-height: 100%;
-  position: relative;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 .wrapper-main {
-  padding-bottom: 134px;
+  flex: 1;
 }
 
 .wrapper-footer {
-  position: absolute;
-  bottom: 0;
   width: 100%;
-  height: 89px;
-  background-color: $lightGray;
 }
 
 footer {
@@ -423,30 +400,9 @@ footer {
   text-align: center;
 }
 
-body:after {
-    background: linear-gradient(to right, #ffffff   0, #2196F3   33%, #E91E63   66%, #000 100%);
-    width: 100%;
-    height: 5px;
-    top: 0;
-    position: absolute;
-    left: 0;
-    content: '';
-}
-
-#bar {
-    background: #000;
-    height: 7px;
-    background-size: cover;
-    background-position: left 60%;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    overflow: hidden;
-    z-index: 1000;
-}
 
 .post h1{
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: $libertine;
   text-align: center;
   font-weight: bold;
   font-kerning: auto;
@@ -455,7 +411,7 @@ body:after {
 }
 
 .page h1{
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: $libertine;
   text-align: center;
   font-weight: bold;
   font-kerning: auto;
@@ -723,6 +679,36 @@ Modules - reusable parts of our design
 
 .pagination {
   text-align: center;
+}
+
+.post-listing {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 8px 0;
+  border-bottom: 1px solid $lightGray;
+  color: $darkerGray;
+  text-decoration: none;
+
+  &:hover {
+    color: $blue;
+  }
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.post-listing-title {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.post-listing-date {
+  font-size: 14px;
+  color: $gray;
+  white-space: nowrap;
+  margin-left: 16px;
 }
 
 @media only screen and (min-width: 320px) and (max-width: 759px) {

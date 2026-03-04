@@ -33,7 +33,7 @@ The following people have been or are actively involved in working on the above 
 |✅|Futhark|[Troels Henriksen](https://sigkill.dk/)|[Twitter](https://twitter.com/sigkill_dk)|[GitHub](https://github.com/Athas/sigkill.dk)|[Episode 37](https://www.arraycast.com/episodes/episode37-futhark)|
 |✅|Co-dfns|[Aaron Hsu](https://www.sacrideo.us/)|-|[GitHub](https://github.com/arcfide)|[Episode 19](https://www.arraycast.com/episodes/episode19-aaron-hsu)|
 |✅|APEX|[Bob Bernecky](https://www.snakeisland.com/)|-|[GitHub](https://github.com/bernecky)|[Episode 55](https://www.arraycast.com/episodes/episode55-bob-bernecky)|
-||SaC|[Sven-Bodo Scholz](https://www.macs.hw.ac.uk/~sbs/homepage/main/Welcome.html)|-|[GitHub](https://github.com/sbscholz)|-|
+|✅|SaC|[Sven-Bodo Scholz](https://www.macs.hw.ac.uk/~sbs/homepage/main/Welcome.html)|-|[GitHub](https://github.com/sbscholz)|[Episode 107](https://www.arraycast.com/episodes/episode107-sac)|
 ||SaC|[Artem Shinkarov](https://ashinkarov.github.io/)|-|[GitHub](https://github.com/ashinkarov)|-|
 ||Remora|[Justin Slepak](https://jrslepak.github.io/)|-|[GitHub](https://github.com/jrslepak)|-|
 ||TAIL/apltail|[Martin Elsman](https://elsman.com/)|-|[GitHub](https://github.com/melsman)|-|

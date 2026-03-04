@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-The `code_report` Blog is a blog focused on programming languages, algorithms and other software related topics. 
+The code report is focues on programming languages, algorithms and other software related topics. 
 
-**About Conor (aka `code_report`)**
+**About Conor (aka code_report)**
  
 Conor's bio and link tree can be found [here](https://conorshakory.com/).
