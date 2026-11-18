@@ -4,7 +4,16 @@ It brings the six array languages into one REPL, sharing consistent editing tool
 
 The Dyalog '26 presentation gives a tour of the website and its features.
 
-[▶ Watch the presentation on YouTube](https://youtu.be/MO1sk4W8H5Q)
+<iframe
+  width="720"
+  height="405"
+  src="https://www.youtube.com/embed/MO1sk4W8H5Q"
+  title="ArrayBox.dev (Winning APL Forge) // Dyalog '26"
+  style="display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; border: 0; margin: 1em 0;"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
 
 ## How I fell in love with APL
 
