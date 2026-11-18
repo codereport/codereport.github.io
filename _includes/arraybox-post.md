@@ -1,6 +1,6 @@
-[ArrayBox.dev](https://arraybox.dev) is an open-source online all-in-one REPL for six array languages, and the winner of the non-APL category of the 2026 Dyalog APL Forge competition!
+[ArrayBox.dev](https://arraybox.dev) is an open-source online all-in-one REPL for six array languages, and the winner of the non-APL category of the 2026 Dyalog APL Forge competition.
 
-It brings the languages into one place, with consistent editing tools, documentation, and keyboard support. You can write and evaluate code, translate basic expressions between languages, look up primitives without leaving the editor, and share what you've written with a permalink.
+It brings the six array languages into one REPL, sharing consistent editing tools, documentation, and keyboard support. You can write and evaluate code, translate basic expressions between languages, look up primitives without leaving the editor, and share what you've written with a permalink.
 
 The Dyalog '26 presentation gives a tour of the website and its features.
 
@@ -10,7 +10,7 @@ The Dyalog '26 presentation gives a tour of the website and its features.
 
 In 2019, [Functional Geekery](https://dev.to/functional-geekery) introduced me to Dyalog APL and [TryAPL](https://tryapl.org/). That December, I finally sat down to experiment with the language.
 
-The first experiment was iota, `⍳`, familiar from C++'s `std::iota`. Then came plus reduce and plus scan:
+The first primitive I tried was iota, `⍳`, which I was familiar with from C++'s `std::iota`. Then I tried plus reduce and plus scan:
 
 | Expression | Result |
 | --- | --- |
@@ -22,17 +22,19 @@ The third expression blew my mind. Reduce gives the final accumulated result; sc
 
 The corresponding C++ algorithms, `std::reduce` and `std::partial_sum`, hadn't made that relationship obvious to me. Playing with APL did. Reduce and scan are *twin algorithms*.
 
-That discovery led to months of exploring array languages and their literature. Even finding dedicated notation for reverse and rotate was exciting. These languages put algorithms at the center of their notation, and studying them can change how you approach problems in any language.
+That discovery led to months of exploring array languages and their literature. Finding a dedicated glyph for rotate only added to my excitement. These languages put algorithms at the center of their notation, and studying them can change how you approach problems in any language.
 
-The longer version of that story is in [The Twin Algorithms](https://www.youtube.com/watch?v=NiferfBvN3s&t=531s). ArrayBox makes it easier to continue that kind of exploration across languages.
+The longer version of that story is in my 2022 talk [The Twin Algorithms](https://www.youtube.com/watch?v=NiferfBvN3s). I give the longer version of how I fell in love with APL and array languages starting at [8m51s](https://www.youtube.com/watch?v=NiferfBvN3s&t=531s) of that talk. ArrayBox makes it easier to continue that kind of exploration across languages.
 
 ![Iota, plus reduce, and plus scan in ArrayBox, with the scan result displayed below the code.]({{ site.baseurl }}/images/arraybox/reduce-and-scan.png)
 
-## Why ArrayBox
+## Why ArrayBox.dev?
 
-Moving between the array languages' online REPLs often means switching editing tools too. Some have syntax highlighting, some have automatic formatting, and some have dark mode. The support varies.
+Moving between the array languages' online REPLs is irritating. Some have syntax highlighting, some have automatic formatting, and some have dark mode. Some have none of the above.
 
 ArrayBox brings these features into a shared environment, along with tools such as inline documentation. Put the cursor beside a primitive, press F1, and see what it does without leaving the code. Switching languages keeps those tools within reach.
+
+Below is a screenshot of ArrayBox's help menu, showing the available shortcuts. For the rest of the article, we will highlight some of the features in more detail.
 
 ![ArrayBox's help menu showing shortcuts for evaluating code, switching languages, opening the keyboard, searching primitives, sharing links, and formatting.]({{ site.baseurl }}/images/arraybox/help-and-shortcuts.png)
 
@@ -50,7 +52,7 @@ A GitHub Action checks daily for interpreter updates and opens issues and pull r
 
 Switching languages can also translate basic primitives and expressions.
 
-For example, start with APL's `⍳5` and switch languages to see the corresponding expression. ArrayBox accounts for some differences in the languages' primitives: in TinyAPL, the monadic range primitive provides the sequence starting at one.
+For example, start with APL's `⍳5` and switch languages to see the corresponding expression.
 
 Another example is reversing a literal array. When you switch languages, ArrayBox can translate the reverse primitive and adjust the notation used to write the array itself.
 
@@ -104,7 +106,7 @@ Multiple cursors let you make the same edit on several lines at once. There is a
 
 ![Three cursors selecting the same glyph across separate lines of APL code, with aligned comments and an evaluation result.]({{ site.baseurl }}/images/arraybox/multiple-cursors.png)
 
-For tacit expressions, the evaluation tree helps you inspect how the functions group together. The presentation uses this view to explore composition, which is particularly helpful when moving between languages with different tacit models.
+For tacit expressions, the train tree helps you inspect how the functions group together. The presentation uses this view to explore composition, which is particularly helpful when moving between languages with different tacit models.
 
 ![ArrayBox's tree view showing how plus reduce, divide, and tally form the APL mean function.]({{ site.baseurl }}/images/arraybox/evaluation-tree.png)
 
@@ -123,3 +125,5 @@ You can [try ArrayBox.dev here](https://arraybox.dev) and follow along with the 
 The presentation closes with the [Largest Interval problem from The Weekly Challenge 400](https://theweeklychallenge.org/blog/perl-weekly-challenge-400/#task-1-largest-interval): remove integers with repeated digits and find the largest gap between the remaining values. The walkthrough builds and debugs a solution in Dyalog APL, then adapts it to Kap and TinyAPL. It's a chance to see the documentation, editing tools, and language switching in action on the same problem.
 
 ![ArrayBox running the Dyalog APL Largest Interval solution and displaying the five results: 2, 4, 11, 105, and 105.]({{ site.baseurl }}/images/arraybox/largest-interval.png)
+
+I wasn't able to attend the Dyalog '26 conference in person this year, but I hope to attend in the future and see you there!
